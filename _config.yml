@@ -9,6 +9,9 @@ description: A site for the Univeristy of North Texas oSTEM chapter.
 # Your name to show in the footer
 author: oSTEM@North Texas
 
+# Use beautiful-jekyll theme
+theme: beautiful-jekyll-theme
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:

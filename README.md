@@ -3,6 +3,8 @@
 This website uses the [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) Theme
 (*Copyright 2020 [Dean Attali](https://deanattali.com)*).
 
+This theme's [hard mode install](https://beautifuljekyll.com/getstarted/#install-steps-hard).
+
 ## How Jekyll Works
 
 Jekyll is meant for blogs, but it makes beautiful websites.
