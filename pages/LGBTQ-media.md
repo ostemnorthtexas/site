@@ -16,10 +16,13 @@ marked with a content warning (cw).
 - [<i>Pretty Little Liars</i>](https://en.wikipedia.org/wiki/Pretty_Little_Liars)
 - [<i>The Real O'Neals</i>](https://en.wikipedia.org/wiki/The_Real_O%27Neals)
 - [<i>Degrassi: The Next Generation</i>](https://en.wikipedia.org/wiki/Degrassi:_The_Next_Generation)
+- [<i>Orange is the New Black</i>](https://en.wikipedia.org/wiki/Orange_Is_the_New_Black)
 - [<i>Faking It</i>](https://en.wikipedia.org/wiki/Faking_It_(American_TV_series))
+- [<i>Sense8</i>](https://en.wikipedia.org/wiki/Sense8)
 - [<i>POSE</i>](https://en.wikipedia.org/wiki/Pose_(TV_series))
 - [<i>Dear White People</i>](https://en.wikipedia.org/wiki/Dear_White_People_(TV_series))
 - [<i>Supergirl</i>](https://en.wikipedia.org/wiki/Supergirl_(TV_series))
+- [<i>Special</i>](https://en.wikipedia.org/wiki/Special_(TV_series))
 - [<i>Sex Education</i>](https://en.wikipedia.org/wiki/Sex_Education_(TV_series))
 - [<i>I Am Not Okay With This</i>](https://en.wikipedia.org/wiki/I_Am_Not_Okay_with_This)
 - [<i>Love, Victor</i>](https://en.wikipedia.org/wiki/Love,_Victor)
@@ -35,7 +38,6 @@ marked with a content warning (cw).
 - [<i>Portrait of a Lady on Fire</i> (2019)](https://en.wikipedia.org/wiki/Portrait_of_a_Lady_on_Fire)
 
 ## Documentaries
-
 - [<i>Matt Shepard is a Friend of Mine</i> (2013)](https://mattshepardisafriendofmine.com/)
 - [<i>Do I Sound Gay?</i> (2014)](https://en.wikipedia.org/wiki/Do_I_Sound_Gay%3F)
 - [<i>The Case Against 8</i> (2014)](https://en.wikipedia.org/wiki/The_Case_Against_8)
@@ -43,12 +45,23 @@ marked with a content warning (cw).
 - [<i>A Secret Love</i> (2020)](https://en.wikipedia.org/wiki/A_Secret_Love)
 - [<i>Disclosure</i>(2020)](http://www.disclosurethemovie.com/)
 
-## TED and TEDx Talks
+## Comedy Specials
+- [<i>Happy to be Here</i> Tig Notaro, 2018](https://www.imdb.com/title/tt8342946/)
+- [<i>Nanette</i> Hannah Gadsby, 2018](https://en.wikipedia.org/wiki/Nanette_(show))
+- [<i>Douglas</i> Hannah Gadsby, 2020](https://en.wikipedia.org/wiki/Hannah_Gadsby:_Douglas)
 
+## TED and TEDx Talks
 - [What It's Like to Be a Transgender Dad - LB Hannahs](https://www.ted.com/talks/lb_hannahs_what_it_s_like_to_be_a_transgender_dad?language=en)
 - [The Biology of Gender - Dr. Karissa Sanbonmatsu](https://www.ted.com/talks/karissa_sanbonmatsu_the_biology_of_gender_from_dna_to_the_brain?language=en)
 - [Proud to Call You My Transgender Son - Skip Pardee](https://www.youtube.com/watch?v=GW8Plf_IXGs)
 - [I Blocked My Grandmother on Facebook - Schuyler Bailar](https://www.youtube.com/watch?v=zstj8g0ctRM)
+
+## Podcasts
+- [My Fave Queer Chemist](https://www.stitcher.com/podcast/my-fave-queer-chemist/e/67457673)
+- [Science Sucks](https://www.stitcher.com/podcast/science-sucks)
+- [Queer STEM History](https://player.whooshkaa.com/shows/queer-stem-history)
+- [SciCurious Podcast](https://www.scicurious.co.uk/)
+- [Disability After Dark](https://www.stitcher.com/podcast/andrew-gurza/disabilityafterdark)
 
 ## Music
 - [<i>Everyone is Gay</i> - A Great Big World](https://www.youtube.com/watch?v=0VG1bj4Lj1Q)
@@ -72,7 +85,6 @@ marked with a content warning (cw).
     - cw binding, transphobia, bullying, religion
 
 ### Spotify Playlists
-
 - [Songs that Make Gay People Scream](https://open.spotify.com/playlist/4jkkbPU4q2Fn9OAwkGoSfo?si=--kE2jdpQrm_Ar0OLfH-pA)
 - [Global Pride 2020](https://open.spotify.com/playlist/0HuloRIml4hNBlJhCVWe1T?si=ifwmqehhQG6IcUteLisSuA)
 

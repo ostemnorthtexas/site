@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Supporting LGBTQ+ Students
+cover-img: assets/img/qtpocflaghalf.png
 ---
 
 * TOC
@@ -75,17 +76,25 @@ student uses with their friends, family, or coworkers.
 
 There are more pronouns than the traditional he/him/his, she/her/hers, or
 they/them/theirs.
-Variations, like
+Variations, like ze and hir, are known as
+[neopronouns](https://intercultural.uncg.edu/wp-content/uploads/Neopronouns-Explained-UNCG-Intercultural-Engagement.pdf).
+When learning to use new pronouns for someone, or a new set of pronouns,
+it is important to practice them outside of use with that person.
+Talk to a stuffed animal about how great ze is.
+Tell a funny story to your dog about xem.
 
 If you use the wrong pronouns for someone, offer a *quick* apology, and
 correct yourself.
 Something like "Jal, is great, I love him -- sorry --her" is all that is
 needed.
-Overly profuse apologies
+Overly profuse apologies can turn into a a transgender person having to
+placate a cisgender person's feelings, which ultimately was caused by faulty
+assumptions of their gender or a simple language mistake in the first place.
 
 You can learn more about proper pronoun usage on these sites:
 - [My Pronouns](https://www.mypronouns.org/how)
 - [oSTEM's "Pronouns and Why They Matter" Guide](https://ostem.blob.core.windows.net/webfiles/Resources/ostem_pronounguide_legal.pdf)
+- [Pronoun Practice](https://www.practicewithpronouns.com/#/?_k=hmoxlh)
 
 ## Syllabus Statements
 

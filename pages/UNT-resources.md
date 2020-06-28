@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources at UNT
+cover-img: assets/img/UNT-Green-Flag.jpg
 ---
 
 * TOC

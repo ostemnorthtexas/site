@@ -19,7 +19,7 @@ changes to your fork, and then submit a pull request.
 ### If You Have Access
 To contribute, download the zip files of this folder.
 If you're familiar with the command line, you can instead use
-`git clone https://github.com/ostemnorthtexas/ostemnorthtexas.github.io.git`.
+`git clone https://github.com/ostemnorthtexas/site.git`.
 
 [Install Jekyll](https://jekyllrb.com/docs/installation/). This can be a process.
 

@@ -20,6 +20,12 @@ with the Registrar's Office. You can read more about that on their page about
 The [Pride Alliance](https://ied.unt.edu/names-unt) has more information
 about updating different systems to use your chosen name across campus.
 
+## Housing at UNT
+
+The [Pride Alliance](https://ied.unt.edu/trans-students-and-university-housing)
+works with Residence Life to make reasonable on-campus housing accomodations
+for transgender students.
+
 ## Legal Transition
 
 Legal transition is the process of legally changing one's identity documents
@@ -53,6 +59,10 @@ Below are some national legal resources.
 - [A Transgender Advocate’s Guide to Updating and Amending School Records](https://www.lambdalegal.org/know-your-rights/article/youth-ferpa-faq)
 - [Lambda Legal](https://www.lambdalegal.org/)
 - [National Center for Transgender Equality](https://transequality.org/)
+
+[Trans Lifeline](https://www.translifeline.org/microgrants)
+also has a microgrant program to help with costs associated with
+updating names and gender markers on identification documents.
 
 ### Places to Update Your Name After a Legal Name/Gender Marker Change
 

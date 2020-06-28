@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources in the DFW Metroplex
+cover-img: assets/img/Dallas-skyline.jpg
 ---
 
 * TOC

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Life After Undergrad
+cover-img: assets/img/rainbow-desktop-bkgd.jpg
 ---
 
 * TOC
@@ -73,3 +74,24 @@ title: Life After Undergrad
 * [Gender Neutral Interview Attire and Business Clothing](https://www.thebalancecareers.com/gender-neutral-interview-and-business-clothing-2061166)
 * [HRC Advocating for LGBTQ Equality in Your Workplace](https://www.hrc.org/resources/advocating-for-lgbt-equality-in-your-workplace)
 * [Information on Professional Dress and Professional Attire](https://uwosh.edu/career/wp-content/uploads/sites/38/2016/05/LGBTQandGenderNon-binaryResources.pdf)
+* [HRC Corporate Equality Index](https://www.hrc.org/campaigns/corporate-equality-index)
+* [HRC LGBTQ Employee Resources](https://www.hrc.org/resources/lgbt-employee-resources)
+* [Speak Out Foundation Workplace Resources](https://www.speakoutfoundation.net/workplace-resources)
+
+## To Disclose or Not to Disclose...
+
+That *is* the question. Whether you
+- are out after undergrad
+- include oSTEM on your résumé/CV
+- join or form an LGBTQ+ employee resource group
+or don't is entirely up to you.
+
+Coming out is a lifelong process, and sometimes for you personal safety and
+security you cannot be out.
+It's unfortunate that the world puts us in such a predicament, but at the
+end of the day, we're all just humans trying to get by.
+
+A lot of people give the advice that if prospective companies wouldn't hire
+you because of your LGBTQ+ identity, you wouldn't want to work there anyway.
+That's all well and good, but it doesn't help you land or maintain a job.
+Nobody but you can make the decision about being out in the workplace.

@@ -151,11 +151,20 @@ search--it may not be the most up-to-date eligibility criteria." %}
     - The National Organization of Gay and Lesbian Scientists and Technical
     Professionals
 - [ACS Gay and Transgender Chemists and Allies (GTCA)](https://acsprof.org/subdivisions/lgbt-and-allies/)
+- [ASCB LGBTQ+ Cell Biologists](https://www.ascb.org/committee/lgbtq-task-force/)
 
 - [We Rep STEM](https://werepstem.com/)
 - [Trans in STEM](https://twitter.com/stemtrans)
 
+### LGBTQ+ STEM Organizations Abroad
+
+- [Pride in STEM](https://prideinstem.org/)
+- [The STEM Village](https://thestemvillage.co.uk/)
+- [LGBTQ STEM](https://lgbtstem.wordpress.com/)
+- [House of STEM](https://houseofstem.org/)
+
 ## Science Communication
+
 - [Letters to a Pre-Scientist](https://www.prescientist.org/)
 - [Skype a Scientist](https://www.skypeascientist.com/)
 - [Reclaiming STEM](https://twitter.com/Reclaiming_STEM)

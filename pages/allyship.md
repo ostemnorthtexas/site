@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Allyship 101
-subtitle: "\"No freedom 'til we're equal, damn right I support it.\" -- Macklemore, 2012"
+cover-img: assets/img/ally-speaker.png
 ---
 
 * TOC
@@ -37,13 +37,16 @@ There will probably be a genderbread person, because you gotta.
 - [Time for Cis-Gender White Men to Recognise Their Privilege](https://news.trust.org/item/20190502130719-tpcky/)
 - [Confessions of a Former Bastard Cop](https://medium.com/@OfcrACab/confessions-of-a-former-bastard-cop-bb14d17bc759)
 - [Talking in Spanish to Families about Anti-Blackness (Habla con tu familia sobre #BlackLivesMatter)](https://twitter.com/therapy4latinx/status/1267590078483689472)
-
+- [Decolonizing the Classroom](https://ncte.org/blog/2019/04/decolonizing-the-classroom/)
 
 ## Intersectionality and Inclusivity
 - [What is Intersectionality](https://www.equality-network.org/our-work/intersectional/)
 - [Intersectionality Lab Manual](https://github.com/eLifeAmbassadors/Intersectionality-lab-manual)
 - [How Colleges and Universities Can Support DACA and Undocumented Students](http://www.chhs.colostate.edu/rise/wp-content/uploads/sites/23/2020/06/RISEreport_DACA-Policy-Brief.pdf)
 - [Science Communication (Reclaiming STEM)](https://twitter.com/Reclaiming_STEM)
+
+## General Allyship Resources
+- [Guide to Allyship](https://guidetoallyship.com/)
 
 ## GRExit
 
