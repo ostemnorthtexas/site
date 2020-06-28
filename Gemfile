@@ -6,4 +6,4 @@ gemspec
 
 gem 'jekyll-toc'
 
-gem `github-pages`
+gem 'github-pages'
