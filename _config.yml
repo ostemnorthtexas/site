@@ -15,16 +15,16 @@ remote_theme: daattali/beautiful-jekyll@3.0.0
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Supporting LGBTQ+ Students: "LGBTQ-students"
-  Allyship 101: "allyship"
+  Supporting LGBTQ+ Students: "pages/LGBTQ-students"
+  Allyship 101: "pages/allyship"
   Resources:
-    - In a Crisis?: "crisis-resources"
-    - Life After Undergrad: "life-after-undergrad"
-    - DFW Area: "DFW-resources"
-    - Transgender Resources: "trans-resources"
-    - STEM Resources: "STEM-resources"
-    - UNT Resources: "UNT-resources"
-    - LGBTQ+ Media: "LGBTQ-media"
+    - In a Crisis?: "pages/crisis-resources"
+    - Life After Undergrad: "pages/life-after-undergrad"
+    - DFW Area: "pages/DFW-resources"
+    - Transgender Resources: "pages/trans-resources"
+    - STEM Resources: "pages/STEM-resources"
+    - UNT Resources: "pages/UNT-resources"
+    - LGBTQ+ Media: "pages/LGBTQ-media"
   Past Meetings:
     - 2018-2019 <i class="fa fa-external-link" aria-hidden="true"></i>: "https://drive.google.com/drive/folders/13wfwf_A4JhnNNQClhEWuPREx9JKpvXdu?usp=sharing"
     - 2019-2020 <i class="fa fa-external-link" aria-hidden="true"></i>: "https://drive.google.com/drive/folders/1mVCDWmP8YVRhACr2TNsdChMSHWtYoUHD?usp=sharing"
