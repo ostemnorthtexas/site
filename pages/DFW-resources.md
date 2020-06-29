@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources in the DFW Metroplex
-cover-img: assets/img/Dallas-skyline.jpg
+cover-img: assets/img/headers/Dallas-skyline.jpg
 ---
 
 * TOC
@@ -84,8 +84,17 @@ cover-img: assets/img/Dallas-skyline.jpg
 - [National Alliance on Mental Illness](https://www.naminorthtexas.org/)
     - Offers support groups and classes for those in the DFW area
 
+## Religious Resources
+
+- [Believe Out Loud - LGBTQ+ Inclusive Religious Spaces](https://www.believeoutloud.com/)
+- [Find a Religious Welcoming Congregation](welcomingresources.org/usa)
+- [Keshet - LGBTQ Equality in Jewish Life](https://www.keshetonline.org/)
+- [Muslim Alliance for Sexual and Gender Diversity](http://www.muslimalliance.org/)
+- [LGBT Religious Organization Resource List](https://www.pbs.org/independentlens/content/love-free-or-die_lgbt-religious-organizations-html/)
+
 ## Additional Resources
 
 - [Trevor Project - Coming Out Handbook](https://www.thetrevorproject.org/wp-content/uploads/2019/10/Coming-Out-Handbook.pdf)
 - [Vote Denton](https://www.votedenton.com/)
 - [ILGA Sexual Orientation World Map](https://ilga.org/ILGA-World-map-sexual-orientation-laws-20-languages)
+- [PRIDE in Practice](https://www.prideinpractice.org/)

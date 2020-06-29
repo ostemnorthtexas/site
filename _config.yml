@@ -26,8 +26,8 @@ navbar-links:
     - UNT Resources: "pages/UNT-resources"
     - LGBTQ+ Media: "pages/LGBTQ-media"
   Past Meetings:
-    - 2018-2019 <i class="fa fa-external-link" aria-hidden="true"></i>: "https://drive.google.com/drive/folders/13wfwf_A4JhnNNQClhEWuPREx9JKpvXdu?usp=sharing"
-    - 2019-2020 <i class="fa fa-external-link" aria-hidden="true"></i>: "https://drive.google.com/drive/folders/1mVCDWmP8YVRhACr2TNsdChMSHWtYoUHD?usp=sharing"
+    - 2018-2019 <i class="fas fa-external-link-alt" aria-hidden="true"></i>: "https://drive.google.com/drive/folders/13wfwf_A4JhnNNQClhEWuPREx9JKpvXdu?usp=sharing"
+    - 2019-2020 <i class="fas fa-external-link-alt" aria-hidden="true"></i>: "https://drive.google.com/drive/folders/1mVCDWmP8YVRhACr2TNsdChMSHWtYoUHD?usp=sharing"
 
 # --- Logo --- #
 
@@ -80,6 +80,9 @@ share-links-active:
   facebook: true
   linkedin: false
   vk: false
+
+## Might need this for jekyll-target-blank
+url: "ostemnorthtexas.github.io/site"
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -221,6 +224,7 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-target-blank
 #  - jekyll-toc
 
 # Beautiful Jekyll / Dean Attali

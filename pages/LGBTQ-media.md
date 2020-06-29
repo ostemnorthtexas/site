@@ -58,7 +58,6 @@ marked with a content warning (cw).
 
 ## Podcasts
 - [My Fave Queer Chemist](https://www.stitcher.com/podcast/my-fave-queer-chemist/e/67457673)
-- [Science Sucks](https://www.stitcher.com/podcast/science-sucks)
 - [Queer STEM History](https://player.whooshkaa.com/shows/queer-stem-history)
 - [SciCurious Podcast](https://www.scicurious.co.uk/)
 - [Disability After Dark](https://www.stitcher.com/podcast/andrew-gurza/disabilityafterdark)
@@ -112,6 +111,11 @@ marked with a content warning (cw).
 - [<i>We Are Everywhere: Protest, Power, and Pride In The History of Queer Liberation</i> by Leighton Brown and Matthew Riemer ](https://www.goodreads.com/book/show/41429532-we-are-everywhere)
 - [<i>Sweet Tea: Black Gay Men of the South</i> by E. Patrick Johnson](https://www.goodreads.com/book/show/3328046-sweet-tea)
 - [<i>Fun Home: A Family Tragicomic</i> by Alison Bechdel](https://www.goodreads.com/book/show/26135825-fun-home)
+
+## Comics
+- [<i>AJ and Magnus</i> by Bryan Steel](https://ajandmagnus.com/)
+- [<i>Assigned Male</i> by Sophie Labelle](https://www.facebook.com/assignedmale/)
+- [Queer Comics Database](http://queercomicsdatabase.com/)
 
 ## Slam Poetry
 - ["A Letter to the Girl I Used to Be" - Ethan Smith](https://www.youtube.com/watch?v=Lkn06Y8prDU)

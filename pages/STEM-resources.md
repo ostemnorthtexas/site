@@ -1,7 +1,7 @@
 ---
 layout: page
 title: STEM Resources
-cover-img: assets/img/milky-way-rainbow.jpg
+cover-img: assets/img/headers/milky-way-rainbow.jpg
 ---
 
 * TOC
@@ -30,6 +30,7 @@ graduate students, but it is a starting point with some of the major ones.
 ### External Compiled Lists
 
 * [NASA's Current Opportunities for Students](https://www.nasa.gov/audience/forstudents/stu-intern-current-opps.html)
+* [HRC's LGBTQ Student Scholarship Database](https://www.hrc.org/resources/scholarship-database)
 
 #### Undergraduate Students
 
@@ -155,6 +156,8 @@ search--it may not be the most up-to-date eligibility criteria." %}
 
 - [We Rep STEM](https://werepstem.com/)
 - [Trans in STEM](https://twitter.com/stemtrans)
+- [National Postdoctoral Association](https://www.nationalpostdoc.org/)
+- [PhD Balance](https://www.phdbalance.com/)
 
 ### LGBTQ+ STEM Organizations Abroad
 
@@ -168,6 +171,20 @@ search--it may not be the most up-to-date eligibility criteria." %}
 - [Letters to a Pre-Scientist](https://www.prescientist.org/)
 - [Skype a Scientist](https://www.skypeascientist.com/)
 - [Reclaiming STEM](https://twitter.com/Reclaiming_STEM)
+
+## Podcasts
+
+- [My Fave Queer Chemist](https://www.stitcher.com/podcast/my-fave-queer-chemist/e/67457673)
+- [Science Sucks](https://www.stitcher.com/podcast/science-sucks)
+- [Surviving Academia](http://survivingacademiapodcast.com/)
+- [Chemistry for Your Life](https://www.stitcher.com/podcast/podcast-for-your-life/chemistry-for-your-life)
+- [Double Shelix Podcast](http://doubleshelix.com/)
+- [Real Science, Real Life](https://open.spotify.com/show/6FxQOOGRNJ2AtOkeCWdJT3)
+- [Hello PhD](http://hellophd.com/)
+- [Sawbones: A Marital Tour of Misguided Medicine](https://maximumfun.org/podcasts/sawbones/)
+- [Her STEM Story](https://herstemstory.com/)
+- [Queer STEM History](https://player.whooshkaa.com/shows/queer-stem-history)
+- [SciCurious Podcast](https://www.scicurious.co.uk/)
 
 ## Coding
 
@@ -185,6 +202,10 @@ search--it may not be the most up-to-date eligibility criteria." %}
 - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Python](https://ehmatthes.github.io/pcc/cheatsheets/README.html)
 - [R and R Packages](https://rstudio.com/resources/cheatsheets/)
+
+## Academic
+- [Unpaywall Browser Extension](https://unpaywall.org/)
+- [Khan Academy](https://www.khanacademy.org/)
 
 ## Relevant Literature
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Transgender Resources
-cover-img: assets/img/trans-enby-pride-flag.jpg
+cover-img: assets/img/headers/trans-enby-pride-flag.jpg
 ---
 
 * TOC
@@ -25,6 +25,42 @@ about updating different systems to use your chosen name across campus.
 The [Pride Alliance](https://ied.unt.edu/trans-students-and-university-housing)
 works with Residence Life to make reasonable on-campus housing accomodations
 for transgender students.
+
+## Emailing Professors
+
+Some trans students find it helpful to email their professors before the start
+of a new semester to disclose their trans status and explain that their
+chosen name is different from their legal name.
+There's no guarantee your professor will read the email before class and
+remember though, so sometimes it feels like more effort than it's worth.
+You are never obligated to disclose your trans status.
+
+> Dear Professor X,
+>
+> I am a student in your XXX course this semester in the XXX section.
+> I am emailing you to let you know that the name on the roster (AAA) is
+> different from the name that I go by (BBB).
+> I will be turning in work under BBB, and request that you use that name for
+> me in all course activities.
+> I also ask that you use CCC pronouns when referring to me.
+> A practical example of this would be something like "This is BBB, and CCC are
+> a STEM major."
+> If you have any questions, feel free to email me at DDD.
+>
+> Sincerely,
+> BBB
+
+While it is always best to be professional in emails to faculty, if you have
+a prior relationship with them, it is perfectly acceptable to send an email
+like:
+
+> Hi Professor X,
+>
+> Just wanted to let you know that I go by BBB now instead of AAA.
+> Please use BBB for me in class this semester.
+>
+> Thanks,
+> BBB
 
 ## Legal Transition
 
@@ -59,6 +95,8 @@ Below are some national legal resources.
 - [A Transgender Advocate’s Guide to Updating and Amending School Records](https://www.lambdalegal.org/know-your-rights/article/youth-ferpa-faq)
 - [Lambda Legal](https://www.lambdalegal.org/)
 - [National Center for Transgender Equality](https://transequality.org/)
+- [Transgender Legal Defense & Education Fund](https://www.transgenderlegal.org/)
+- [Know Your Rights: A Guide for Trans and Gender Nonconforming Students](https://www.aclu.org/other/know-your-rights-guide-trans-and-gender-nonconforming-students)
 
 [Trans Lifeline](https://www.translifeline.org/microgrants)
 also has a microgrant program to help with costs associated with
@@ -140,7 +178,7 @@ item.
 
 There are many reasons you may be afraid to try out shapewear, one of which
 being that internet purchases require credit or debit card information
-that other people have access to, or because their mail isn't private.
+that other people have access to, or because your mail isn't private.
 
 Two ways you can get around this are:
 - Giving a trusted friend the money to buy it for you, or asking to have it
@@ -196,3 +234,10 @@ available at these links:
 - [Top Surgery](https://www.topsurgery.net/)
 - [FTM Surgery](https://www.ftmsurgery.net/)
 - [MTF Surgery](https://www.mtfsurgery.net/)
+- [Rad Remedy](https://radremedy.org/)
+
+
+## Additional Resources
+- [All About Shaving - Hudson's FTM Resource Guide](http://www.ftmguide.org/shaving.html)
+- [Genital Tucking for Trans-Feminine Patients](https://www.prideinpractice.org/articles/transgender-genital-tucking-guide/)
+- [7 Gender-Neutral Period Products You Should Know About](https://www.bustle.com/p/7-gender-neutral-period-products-you-should-know-about-17996710)

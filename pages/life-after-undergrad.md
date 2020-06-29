@@ -1,11 +1,14 @@
 ---
 layout: page
 title: Life After Undergrad
-cover-img: assets/img/rainbow-desktop-bkgd.jpg
+cover-img: assets/img/headers/rainbow-desktop-bkgd.jpg
 ---
 
 * TOC
 {:toc}
+
+A recording of our Fall 2019 meeting about Graduate and Professional School apps:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6VkSUhsZr40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Finding Schools
 

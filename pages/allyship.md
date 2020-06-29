@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Allyship 101
-cover-img: assets/img/ally-speaker.png
+cover-img: assets/img/headers/ally-speaker.png
 ---
 
 * TOC
@@ -9,18 +9,230 @@ cover-img: assets/img/ally-speaker.png
 
 This page is under development.
 
-{%comment%}
-There will probably be a genderbread person, because you gotta.
-{%endcomment%}
+## Allyship Alphabet Soup
 
-{%comment%}
-## Being an Ally for the LGBQ+ Community
-{%endcomment%}
+There are a lot of terms used by the LGBTQ+ community and the those involved in
+diversity work at large.
+The ones listed here are some that are common or used within the community.
 
-## Being an Ally for the Trans Community
+### General Terms
 
+* **BIPOC** stands for Black, Indigenous, and People of Color.
+
+* **DEI** stands for Diversity, Equity, and Inclusion.
+
+{% include image.html file="../../../assets/img/IISC_reel.png"
+alt="A four-pane image of people at a baseball game watching from behind a
+fence. The first pane is reality, the second is equality, the third is equity,
+and the fourth is liberation. Reality has 1 person on many boxes,
+a second on one box, and a third in a hole.
+In equality, everyone has 1 box. In equity, the tall person has no boxes, the
+middle person has one box, and the short person has 2 boxes. In liberation,
+there are no boxes, because the fence is gone."
+caption='<a href="interactioninstitute.org">Interaction Institute for Social Change</a> | <a href="madewithangus.com">Artist: Angus Maguire</a>'%}
+
+* **URM** stands for Underrepresented Minority.
+It has a very specific meaning by funding organizations which has been
+co-opted to broadly mean any underrepresented group.
+A number of people consider its usage to be
+[harmful](https://cacm.acm.org/blogs/blog-cacm/245710-underrepresented-minority-considered-harmful-racist-language/fulltext).
+
+* **WDF** means Withdraw/Failing.
+It's used by academics to describe people who withdrew or failed a course
+in the pursuit of improving student retention.
+
+### LGBTQ+
+
+* **AFAB** and **AMAB** stand for "Assigned Female At Birth" and
+"Assigned Male At Birth", respectively.
+They are often used to describe sexual health needs that pertain to
+assumed anatomical features.
+
+* **Cisgender** means that someone's gender identity matches the sex they were
+assigned at birth.
+A cisgender woman had "female" marked on their original birth certificate and
+considers themself to be a woman.
+A cisgender man had "male" marked on their original birth certificate and
+considers themself to be a man.
+
+* **Enby** is an abbreviation for non-binary.
+Sometimes it will be written as *NB*, which is problematic because the NB
+abbreviation is used for Non-Black.
+
+* **FTM** and **MTF** stands for "Female-To-Male" and "Male-To-Female",
+respectively.
+FTM describes the transition of trans men, whereas MTF describes the transition
+of trans women.
+The terms are considered to be descriptive, yet offensive, because they imply
+that trans identities need to make sense using a cisgender framework (moving
+from birth to now).
+Historically, it is how members of the trans community identified themselves,
+and there are some people today who find the term empowering.
+
+* **FTX** and **MTX** mean "female-to-non-binary" and "male-to-non-binary",
+respectively.
+The *X* is often used as a third gender symbol for legal identification in
+places where a third symbol exists.
+These terms are generally used to find resources within the trans and
+non-binary community.
+
+* **Gender Dysphoria** is the feeling of conflict between assigned gender
+and gender identity. Common causes of dysphoria include body shape, body hair
+(or lack thereof), voice, and reproductive processes (such as menstruation and
+erection).
+
+* **Gender Euphoria** is the euphoric state that can come from being recognized
+as your gender, or by doing gender-affirming things. For instance, a trans
+feminine person may experience gender euphoria by wearing a skirt.
+
+* **GNC** stands for gender non-conforming.
+This term can apply to both cisgender and transgender individuals
+(ex. a cis woman with short hair, a trans man wearing nail polish).
+
+* **GRS** stands for gender reassignment surgery.
+It is an updated term for the traditional *SRS*, which stands for sexual
+reassignment surgery.
+
+* **GSA** stands for Gay-Straight Alliance.
+GSAs are usually student organizations built around pushing for equality of
+LGBTQ+ persons.
+
+* **GSM** stands for gender and sexual minorities.
+It is occasionally used in the literature as an alternative for LGBTQ+.
+
+* **LGBTQ+** stands for Lesbian, Gay, Bisexual, Transgender, Queer/Questioning,
+and other gender and sexual minorities (including asexuality).
+The acronym has several alternative forms with more or less letters:
+    - LGB: Lesbian, Gay, Bisexual
+    - LGBT: Lesbian, Gay, Bisexual, Transgender
+    - LGBTQIA: Lesbian, Gay, Bisexual, Transgender, Queer/Questioning, Intersex,
+    Asexual
+    - LGBTQIAPK: Lesbian, Gay, Bisexual, Transgender, Queer/Questioning, Intersex,
+    Asexual, Pansexual, Kink
+
+* **MLM** and **WLM** mean "Men who Love Men" and "Women who Love Women",
+respectively.
+They are largely used on the Internet.
+
+* **MSM** and **WSM** mean "Men who have Sex with Men" and "Women who have Sex
+with Women", respectively.
+They are most often used in a medical context (i.e., the MSM restrictions on
+blood donations).
+
+* **Non-Binary** is an umbrella term for genders that do not conform to the
+woman/man binary framework.
+Within the non-binary community are a wealth of terms, including agender,
+genderqueer, genderfluid, and genderflux.
+
+* **PGP** stands for proper gender pronouns.
+These are the set (or sets) of pronouns that a person wants used for themself.
+It was used as preferred gender pronouns in the past, but that term implies
+that using the correct pronouns for someone is a preference and not an
+obligation.
+
+* **Polyam** is an abbreviated form of polyamorous.
+It is occasionally shortened as *poly*, which is problematic because the Poly
+abbreviation is used to mean Polynesian.
+
+* **QTPOC** stands for Queer and Trans People Of Color.
+
+* **Queer** is used generally in place of the LGBTQ+ acronym (it's easier!).
+It has a historical use as a pejorative, so there are many LGBTQ+ people who
+do not feel comfortable using the term for themselves.
+Always respect someone's wishes to not have *queer* applied to them!
+
+* **STP** stands for Stand-To-Pee.
+STP devices are sometimes used by trans masculine people to more easily
+urinate while standing and/or use a urinal.
+
+* **TGNC** stands for Transgender and Gender Non-Conforming.
+
+* **Transgender** means that someone's gender identity does not match sex they
+were assigned at birth.
+It is often abbreviated to "trans", and the word is used as an adjective
+(i.e., a transgender person **NOT** a transgender).
+Sometimes "trans" appears as Trans<sup>\*</sup> to explain its use as an
+umbrella term comprised of many different identities.
+
+Gender and sexuality often described using the Genderbread person.
+
+{% include image.html file="../../../assets/img/Genderbread-v4.png"
+alt="A picture of a gingerbread person with a brain marked identity,
+a heart marked attraction, a body outline marked expression, and a transgender
+symbol between the legs marked sex. There are sliding scales from null to
+womanness and null to manness for each of these categories below the person."
+caption='For more about the Genderbread person, visit <a href="https://www.genderbread.org/">the website</a>.'%}
+
+## Being an Ally for the LGBTQ+ Community
+
+There are many, many things you can do to work toward becoming an ally for the
+LGBTQ+ community. Just because some things appear in a checklist, does not
+mean they are the _only_ things you can (or should) be doing.
+
+* Speak up
+    - If you see someone getting mistreated because of their gender or
+    sexuality, call out the mistreatment.
+* If you're going to ask about relationships, don't impose a heteronormative
+context
+    - Don't assume that a woman has (or wants) a husband, or that a man has
+    (or wants) a wife
+* Stop assuming someone's gender identity
+    - Often times, we put people into the boxes of man or woman based on their
+    gender expression, and doing this actually makes it really hard to
+    acknowledge that people whose identities do not match their gender expression
+    are actually their gender.
+    - Example: it is often very hard for cisgender gender-conforming
+    individuals to understand that a person with a beard could actually be a woman.
+    This can lead to "gender-policing", where you will only accept someones
+    trans identity if they fit into a very specific definition of what it means
+    to be that gender.
+* Eliminating gendered language
+    - Every time "he/she" is used in writing, your transgender friends cringe.
+    "They" is broader and challenges the gender binary (and sexism!) that
+    comes from "he/she".
+* Say what you mean
+    - If you're teaching a class about pregnancy but only using the phrase
+    "pregnant women," you're leaving out people who do not identify themselves
+    as women with your words. Instead, opt for something like "pregnant people."
+* Normalize Sharing Your Pronouns
+    - Sharing your pronouns means introducing yourself with your pronouns, or
+    otherwise making them clear. Consider adding them to your introduction
+    slide, email signature, Twitter bio, name tags, and business cards.
+    - Normalizing the sharing of pronouns makes it easier for trans people to
+    assert their pronouns. However, if you're sharing your pronouns but not
+    actually using the ones that others share with you, your sharing is just
+    an empty gesture.
+* Learn About Microaggressions, And Just... Stop.
+    - "That's so gay!"
+    - "I'm so glad you can get gay married!"
+    - "Wow, I never would have guessed you were trans."
+    - "Um, excuse me, you're in the wrong bathroom. This is the women's room."
+    - "Have you had the surgery?"
+    - "You don't act gay!"
+    - "You just haven't met the right man."
+    - "Wait, you're religious?"
+* Drop the Gendered Awards
+    - If your school or program has a "best female" and "best male" award
+    category, change it to the top two students (looking at you,
+    Homecoming King/Queen). Having two separate categories based on gender
+    often excludes transgender and non-binary individuals from participating, or,
+    worse, only allows their participation under their gender assigned at birth.
+* Learn About Policies and Advocate for Better
+    - Things like sexual orientation and gender identity not being included in
+    equal opportunity policies, being required to have a legal name announced
+    at graduation, and excluding gender-affirming care in student health
+    insurance policies are just some of the ways that LGBTQ+ students are let
+    down by campus policies.
+
+- [MAP Snapshot: LGBTQ Equality by State](https://www.lgbtmap.org/equality-maps)
+- [It IS a Big Deal: The Impact of Microaggressions on LGBTQ Mental Health and Academic Success](http://www.shastacollege.edu/SC%20Online/Files/LGBTQ%20Microaggressions%20-%20Rock.pdf)
+- [7 Microaggressions Trans People Face in Health and Mental Healthcare Settings](http://blog.lighthouse.lgbt/transgender-healthcare-microaggressions/)
 - [The Nonbinary Fraction: Looking Towards the Future of Gender Equity in Astronomy](https://arxiv.org/abs/1907.04893)
 - [Flushing Away Scientists: Upcoming Supreme Court case may limit the participation of transgender people in STEM for generations to come](https://mystudentvoices.com/flushing-away-scientists-4bb72c9e7f91)
+- [Campus Pride Trans Policy Clearinghouse](https://www.campuspride.org/tpc/)
+- [Despite training and resources, transgender students still face healthcare barriers on campus (ASU, 2020)](https://www.statepress.com/article/2020/04/spmagazine-transgender-mental-health-asu)
+- [Our Trans Loved Ones: Questions and Answers for Parents, Families, and Friends of People Who Are Transgender and Gender Expansive](https://pflag.org/sites/default/files/Our%20Trans%20Loved%20Ones.pdf)
+- [2015 U.S. Transgender Survey Report](http://www.ustranssurvey.org/reports)
 
 ## Anti-Racism Resources
 
@@ -38,6 +250,7 @@ There will probably be a genderbread person, because you gotta.
 - [Confessions of a Former Bastard Cop](https://medium.com/@OfcrACab/confessions-of-a-former-bastard-cop-bb14d17bc759)
 - [Talking in Spanish to Families about Anti-Blackness (Habla con tu familia sobre #BlackLivesMatter)](https://twitter.com/therapy4latinx/status/1267590078483689472)
 - [Decolonizing the Classroom](https://ncte.org/blog/2019/04/decolonizing-the-classroom/)
+- [31 Resources That Will Help You Become a Better White Ally](https://www.self.com/story/white-ally-resources)
 
 ## Intersectionality and Inclusivity
 - [What is Intersectionality](https://www.equality-network.org/our-work/intersectional/)
@@ -47,6 +260,20 @@ There will probably be a genderbread person, because you gotta.
 
 ## General Allyship Resources
 - [Guide to Allyship](https://guidetoallyship.com/)
+- [How to Actually Promote Diversity in STEM](https://www.theatlantic.com/ideas/archive/2019/11/how-umbc-got-minority-students-stick-stem/602635/)
+- [GitLab Ally Resources](https://about.gitlab.com/handbook/communication/ally-resources/)
+- [Practice Effective Allyship](https://accessibility.cornell.edu/diversity-includes-disability/be-an-ally/)
+
+## Accessibility Resources
+- [The A11Y Project](https://a11yproject.com/resources/)
+- [WebAim Contrast Checker](https://webaim.org/resources/contrastchecker/)
+- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/)
+- [WAVE Browser Extension](https://wave.webaim.org/extension/)
+- [Color Oracle - Color Blindness Simulator](https://colororacle.org/)
+- [PDFComment - LaTeX package for tagged PDFs (alt text!)](https://ctan.org/pkg/pdfcomment?lang=en)
+- [Otter AI - voice transcription](https://otter.ai/login)
+- [Google Slides Captions](https://support.google.com/docs/answer/9109474?hl=en)
+- [Microsoft PowerPoint Captions](https://support.microsoft.com/en-us/office/present-with-real-time-automatic-captions-or-subtitles-in-powerpoint-68d20e49-aec3-456a-939d-34a79e8ddd5f)
 
 ## GRExit
 

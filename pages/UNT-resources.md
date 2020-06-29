@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resources at UNT
-cover-img: assets/img/UNT-Green-Flag.jpg
+cover-img: assets/img/headers/UNT-Green-Flag.jpg
 ---
 
 * TOC
@@ -34,8 +34,30 @@ cover-img: assets/img/UNT-Green-Flag.jpg
 
 ## STEM Organizations
 
+- [American Society for Microbiology](https://unt.campuslabs.com/engage/organization/american-society-for-microbiology)
+    - Campus chapter of ASM intended to promote and advance the microbial
+    sciences
+
+- [Association for Computing Machinery](https://unt.campuslabs.com/engage/organization/acm-unt)
+    - Group for promoting and advancing modern computing
+
+- [Beta Beta Beta](https://unt.campuslabs.com/engage/organization/beta-beta-beta-biological-honor-society)
+    - Co-ed biological honor society
+
+- [Biology Graduate Student Association](https://unt.campuslabs.com/engage/organization/biology-graduate-student-association)
+    - Social networking for biology graduate students
+
+- [Forensic Science Club](https://unt.campuslabs.com/engage/organization/forensic-science-club)
+    - Students interested in forensic science
+
 - [HackUNT](https://unthackathon.com/)
     - An annual 24-hour code development competition
+
+- [Material Advantage](https://unt.campuslabs.com/engage/organization/material-advantage)
+    - Promotes materials science, engineering, and other STEM fields
+
+- [Psi Chi](https://unt.campuslabs.com/engage/organization/psi-chi-international-honor-society-of-psychology)
+    - Co-ed international honor society of psychology
 
 - [SHPE UNT](https://twitter.com/shpeunt)
     -The Society of Hispanic Professional Engineers
@@ -59,6 +81,9 @@ cover-img: assets/img/UNT-Green-Flag.jpg
 
 - [UNT Medically Dedicated Students](https://twitter.com/UNT_MDSO)
     - A pre-health student organization
+
+- [UNT PASC](https://untpasc.wixsite.com/pasc)
+    - Psychology Advocates for Social Change
 
 - [UNT Robotics](https://www.untrobotics.com/)
     - A robotics group for people of all skill levels

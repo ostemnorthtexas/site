@@ -98,3 +98,37 @@ Call 1.214.828.1000
 1.972.525.8181
     - Information on mental health and getting help
     - M-F 10am-6pm CT
+
+## Additional Mental Health Resources
+
+- [ULifeline](http://www.ulifeline.org/)
+    - Resource for college mental health with a symptom self-evaluation tool
+- [Open Counseling](https://www.opencounseling.com/)
+    - Website for finding local free or affordable counseling
+- [Aunt Bertha](https://www.auntbertha.com/)
+    - Website for finding free or reduced cost services
+- [Woebot](https://woebot.io/)
+    - Free app used for cognitive behavioral therapy
+- [Calm Harm](https://calmharm.co.uk/)
+    - Free app with alternate activities to self-harm
+- What's Up? - A Mental Health App
+    - Free app for coping with anxiety, depression, and stress
+    - [Apple](https://apps.apple.com/us/app/id968251160?mt=8) [Google Play](https://play.google.com/store/apps/details?id=com.jacksontempra.apps.whatsup&hl=en_US)
+- [MyPlan](https://www.myplanapp.org/home)
+    - Free app for safety planning for relationship abuse
+- [My3](https://my3app.org/)
+    - Free app for suicide safety planning
+- [Schizophrenia App](https://sardaa.org/schizophrenia-app/)
+    - Free app for monitoring and managing schizophrenia
+- [SuperBetter App](https://www.superbetter.com/)
+    - Free app for building resiliency
+- [Youper](https://www.youper.ai/)
+    - Free app for mood tracking and building coping skills
+- [PTSD Coach](https://www.ptsd.va.gov/appvid/mobile/ptsdcoach_app.asp)
+    - Free app for PTSD screening and symptom tracking
+- [Self-Help Anxiety Management](https://sam-app.org.uk/)
+    - Free app with strategies for managing anxiety
+- [MyLife](https://my.life/)
+    - Free app with mindfulness activities
+- [Recovery Record](https://www.recoveryrecord.com/patient_overview)
+    - Free app for eating disorder recovery
