@@ -291,6 +291,7 @@ context
 - [Campus Pride Trans Policy Clearinghouse](https://www.campuspride.org/tpc/)
 - [Despite training and resources, transgender students still face healthcare barriers on campus (ASU, 2020)](https://www.statepress.com/article/2020/04/spmagazine-transgender-mental-health-asu)
 - [2015 U.S. Transgender Survey Report](http://www.ustranssurvey.org/reports)
+- [Xan's Guide to Pride Flags](https://comicsbyxan.com/comic/pride-flags-a-guide/)
 
 ## Anti-Racism Resources
 
@@ -335,6 +336,7 @@ context
 - [Otter AI - voice transcription](https://otter.ai/login)
 - [Google Slides Captions](https://support.google.com/docs/answer/9109474?hl=en)
 - [Microsoft PowerPoint Captions](https://support.microsoft.com/en-us/office/present-with-real-time-automatic-captions-or-subtitles-in-powerpoint-68d20e49-aec3-456a-939d-34a79e8ddd5f)
+- [Job Accommodation Network](https://askjan.org/)
 
 ## GRExit
 

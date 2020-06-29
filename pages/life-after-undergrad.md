@@ -21,6 +21,7 @@ A recording of our Fall 2019 meeting about Graduate and Professional School apps
 * [Most Progressive LGBTQ+ Graduate Degrees](https://www.gograd.org/resources/best-lgbtq-grad-schools/)
 * [Summer Research and Professional Development Programs for Undocumented College Students in the USA in STEM Fields](http://www.matthewrcover.com/undocumented-in-stem.html)
 * [A few tips on choosing a grad program for LGBTQ+ students (in STEM)](https://medium.com/@astronomack/a-few-tips-on-choosing-a-grad-program-for-lgbtq-students-in-stem-c5e87fffd245)
+* [The illustrated guide to a Ph.D.](http://matt.might.net/articles/phd-school-in-pictures/)
 
 ### GRExit
 
@@ -86,6 +87,8 @@ school, program, or research group.
 * [HRC Corporate Equality Index](https://www.hrc.org/campaigns/corporate-equality-index)
 * [HRC LGBTQ Employee Resources](https://www.hrc.org/resources/lgbt-employee-resources)
 * [Speak Out Foundation Workplace Resources](https://www.speakoutfoundation.net/workplace-resources)
+* [My Individual Development Plan (IDP)](https://myidp.sciencecareers.org/)
+* [Interviewing While LGBTQ+ (Academically Focused)](https://www.chronicle.com/article/Interviewing-While-LGBTQ/229123)
 
 ## To Disclose or Not to Disclose...
 

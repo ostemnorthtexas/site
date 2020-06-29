@@ -194,6 +194,7 @@ search--it may not be the most up-to-date eligibility criteria." %}
 - [Data Carpentry (online lessons under development – ft. genomics!)](https://datacarpentry.org/lessons/#workshop-materials-under-development-or-consideration)
 - [Overleaf: Learn LaTeX](https://www.overleaf.com/learn/latex/Tutorials)
 - [Stack Overflow (aka Coding Google)](https://stackoverflow.com/)
+- [Codecademy](https://www.codecademy.com/)
 
 ### Cheatsheets
 - [DevHints – a robust cheat sheet library](https://devhints.io/)
@@ -206,6 +207,8 @@ search--it may not be the most up-to-date eligibility criteria." %}
 ## Academic
 - [Unpaywall Browser Extension](https://unpaywall.org/)
 - [Khan Academy](https://www.khanacademy.org/)
+- [Connected Papers](https://www.connectedpapers.com/)
+- [How to Write a Thorough Peer Review](https://www.nature.com/articles/d41586-018-06991-0)
 
 ## Relevant Literature
 
