@@ -43,6 +43,12 @@ A recording of our Fall 2019 meeting about Graduate and Professional School apps
 * [List of Physical Therapy Schools](http://aptaapps.apta.org/ptcas/programlist.aspx)
 * [LSAC Find a Law School](https://www.lsac.org/choosing-law-school/find-law-school)
 
+## Questions to Ask Before Accepting a Graduate Offer
+
+This PDF contains a list of things to consider before committing to a specific
+school, program, or research group.
+<iframe src="https://docs.google.com/viewer?url=https://github.com/ostemnorthtexas/site/raw/master/assets/pdf/Grad-School-Question-List.pdf&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+
 ## Formatting and Funding Applications
 
 * [How to Become a Scientist While Poor](http://www.christineliuart.com/writing/2019/2/2/how-to-become-a-scientist-while-poor)
