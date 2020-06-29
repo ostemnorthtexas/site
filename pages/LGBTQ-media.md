@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "LGBTQ+ Media"
+cover-img: /assets/img/headers/theater.jpg
 ---
 
 * TOC
