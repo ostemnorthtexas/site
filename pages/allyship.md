@@ -43,10 +43,27 @@ in the pursuit of improving student retention.
 
 ### LGBTQ+
 
+Another moderately comprehensive list can be found on the
+[IPM website](https://www.itspronouncedmetrosexual.com/2013/01/a-comprehensive-list-of-lgbtq-term-definitions/).
+
 * **AFAB** and **AMAB** stand for "Assigned Female At Birth" and
 "Assigned Male At Birth", respectively.
 They are often used to describe sexual health needs that pertain to
 assumed anatomical features.
+Many people do not like these terms because they emphasize the fascination
+of people with a trans person's genitals.
+
+* **Agender** is described as lacking a personal gender identity, or having
+a neutral gender indentity.
+
+* **Aromantic** is a romantic orientation described by experiencing little or
+no romantic attraction to others.
+
+* **Asexual** is a sexual orientation described by the lack of sexual attraction
+to other people.
+
+* **Bisexual** is a sexual orientation that describes people who are attracted
+to two or more genders.
 
 * **Cisgender** means that someone's gender identity matches the sex they were
 assigned at birth.
@@ -54,6 +71,10 @@ A cisgender woman had "female" marked on their original birth certificate and
 considers themself to be a woman.
 A cisgender man had "male" marked on their original birth certificate and
 considers themself to be a man.
+
+* **Clocking** is a term used to describe when someone picks up that another
+person is in the LGBTQ+ community without them coming out (though the term is
+often trans-specific).
 
 * **Enby** is an abbreviation for non-binary.
 Sometimes it will be written as *NB*, which is problematic because the NB
@@ -65,7 +86,7 @@ FTM describes the transition of trans men, whereas MTF describes the transition
 of trans women.
 The terms are considered to be descriptive, yet offensive, because they imply
 that trans identities need to make sense using a cisgender framework (moving
-from birth to now).
+from birth to now), as well as reducing trans identities to genitalia.
 Historically, it is how members of the trans community identified themselves,
 and there are some people today who find the term empowering.
 
@@ -75,6 +96,11 @@ The *X* is often used as a third gender symbol for legal identification in
 places where a third symbol exists.
 These terms are generally used to find resources within the trans and
 non-binary community.
+
+* **Gay** is a sexual attraction that describes men who are attracted
+exclusively to other men.
+In recent years, gay has often been used as an umbrella term for people
+with non-straight sexual orientations.
 
 * **Gender Dysphoria** is the feeling of conflict between assigned gender
 and gender identity. Common causes of dysphoria include body shape, body hair
@@ -100,6 +126,10 @@ LGBTQ+ persons.
 * **GSM** stands for gender and sexual minorities.
 It is occasionally used in the literature as an alternative for LGBTQ+.
 
+* **Intersex** is a term used to describe individuals whose personal body
+composition (including chromosomes, gonads, hormones, and genitals) are not
+adequately described by the binary male and female sex categories.
+
 * **LGBTQ+** stands for Lesbian, Gay, Bisexual, Transgender, Queer/Questioning,
 and other gender and sexual minorities (including asexuality).
 The acronym has several alternative forms with more or less letters:
@@ -110,6 +140,9 @@ The acronym has several alternative forms with more or less letters:
     - LGBTQIAPK: Lesbian, Gay, Bisexual, Transgender, Queer/Questioning, Intersex,
     Asexual, Pansexual, Kink
 
+* **Lesbian** is a term used for women who are attracted exclusively to
+other women.
+
 * **MLM** and **WLM** mean "Men who Love Men" and "Women who Love Women",
 respectively.
 They are largely used on the Internet.
@@ -119,10 +152,16 @@ with Women", respectively.
 They are most often used in a medical context (i.e., the MSM restrictions on
 blood donations).
 
+* **Neutrois** is a gender identity that falls under the transgender umbrella.
+It is sometimes described as gender neutral or agender.
+
 * **Non-Binary** is an umbrella term for genders that do not conform to the
 woman/man binary framework.
 Within the non-binary community are a wealth of terms, including agender,
 genderqueer, genderfluid, and genderflux.
+
+* **Pansexual** is a sexual orientation that describes people who are attracted
+to other people without regard for gender.
 
 * **PGP** stands for proper gender pronouns.
 These are the set (or sets) of pronouns that a person wants used for themself.
@@ -141,9 +180,17 @@ It has a historical use as a pejorative, so there are many LGBTQ+ people who
 do not feel comfortable using the term for themselves.
 Always respect someone's wishes to not have *queer* applied to them!
 
+* **Stealth** describes the act of hiding a trans identity post-transition.
+Being stealth is generally done for either safety or because a person doesn't
+feel an obligation to be visibly trans.
+
 * **STP** stands for Stand-To-Pee.
 STP devices are sometimes used by trans masculine people to more easily
 urinate while standing and/or use a urinal.
+
+* **TERF** stands for Trans Exclusionary Radical Feminism.
+It describes people who have trans-exclusive views, and who often work to harm
+and undermine transgender people.
 
 * **TGNC** stands for Transgender and Gender Non-Conforming.
 
@@ -153,6 +200,11 @@ It is often abbreviated to "trans", and the word is used as an adjective
 (i.e., a transgender person **NOT** a transgender).
 Sometimes "trans" appears as Trans<sup>\*</sup> to explain its use as an
 umbrella term comprised of many different identities.
+Because gender identity is separate from sexual orientation, it is important to
+remember that straight trans people are included in the LGBTQ+ community.
+
+The same identity can mean different things to different people, especially
+when it comes to trans identities.
 
 Gender and sexuality often described using the Genderbread person.
 
@@ -224,6 +276,13 @@ context
     insurance policies are just some of the ways that LGBTQ+ students are let
     down by campus policies.
 
+## LGBTQ+ Ally Training
+- [The SafeZone Project: Awareness and Ally Training](https://thesafezoneproject.com/)
+- [Trans 101 - uppercaseCHASE1 on YouTube](https://www.youtube.com/watch?v=VRH0pwENbx8)
+- [Our Trans Loved Ones: Questions and Answers for Parents, Families, and Friends of People Who Are Transgender and Gender Expansive](https://pflag.org/sites/default/files/Our%20Trans%20Loved%20Ones.pdf)
+
+## Additional LGBTQ+ Resources
+- [Asexuality Visibility and Education Network](https://www.asexuality.org/)
 - [MAP Snapshot: LGBTQ Equality by State](https://www.lgbtmap.org/equality-maps)
 - [It IS a Big Deal: The Impact of Microaggressions on LGBTQ Mental Health and Academic Success](http://www.shastacollege.edu/SC%20Online/Files/LGBTQ%20Microaggressions%20-%20Rock.pdf)
 - [7 Microaggressions Trans People Face in Health and Mental Healthcare Settings](http://blog.lighthouse.lgbt/transgender-healthcare-microaggressions/)
@@ -231,7 +290,6 @@ context
 - [Flushing Away Scientists: Upcoming Supreme Court case may limit the participation of transgender people in STEM for generations to come](https://mystudentvoices.com/flushing-away-scientists-4bb72c9e7f91)
 - [Campus Pride Trans Policy Clearinghouse](https://www.campuspride.org/tpc/)
 - [Despite training and resources, transgender students still face healthcare barriers on campus (ASU, 2020)](https://www.statepress.com/article/2020/04/spmagazine-transgender-mental-health-asu)
-- [Our Trans Loved Ones: Questions and Answers for Parents, Families, and Friends of People Who Are Transgender and Gender Expansive](https://pflag.org/sites/default/files/Our%20Trans%20Loved%20Ones.pdf)
 - [2015 U.S. Transgender Survey Report](http://www.ustranssurvey.org/reports)
 
 ## Anti-Racism Resources
@@ -257,12 +315,15 @@ context
 - [Intersectionality Lab Manual](https://github.com/eLifeAmbassadors/Intersectionality-lab-manual)
 - [How Colleges and Universities Can Support DACA and Undocumented Students](http://www.chhs.colostate.edu/rise/wp-content/uploads/sites/23/2020/06/RISEreport_DACA-Policy-Brief.pdf)
 - [Science Communication (Reclaiming STEM)](https://twitter.com/Reclaiming_STEM)
+- [The Problem With the Phrase Women and Minorities: Intersectionality—an Important Theoretical Framework for Public Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3477987/)
 
-## General Allyship Resources
+## General Ally Resources
 - [Guide to Allyship](https://guidetoallyship.com/)
 - [How to Actually Promote Diversity in STEM](https://www.theatlantic.com/ideas/archive/2019/11/how-umbc-got-minority-students-stick-stem/602635/)
 - [GitLab Ally Resources](https://about.gitlab.com/handbook/communication/ally-resources/)
 - [Practice Effective Allyship](https://accessibility.cornell.edu/diversity-includes-disability/be-an-ally/)
+- [Checking Your Privilege 101](http://tjlp.org/wp-content/uploads/2013/04/Checking-Your-Privilege-101-download.pdf)
+- [How to Be an Ally if You Are a Person with Privilege](http://www.scn.org/friends/ally.html)
 
 ## Accessibility Resources
 - [The A11Y Project](https://a11yproject.com/resources/)
