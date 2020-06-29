@@ -82,7 +82,8 @@ share-links-active:
   vk: false
 
 ## Might need this for jekyll-target-blank
-url: "ostemnorthtexas.github.io/site"
+## Scratch that, turns out adding this will make the home link fail
+#url: "ostemnorthtexas.github.io/site"
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
