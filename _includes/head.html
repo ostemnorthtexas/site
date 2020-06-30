@@ -21,7 +21,7 @@
   <!-- Add Font Awesome -->
   <script href="https://use.fontawesome.com/1985182e16.js"></script>
   <!-- Add favicon -->
-  <link rel="shortcut icon" href="{{ "{{ site.baseurl }}/assets/img/favicon.ico"  }}">
+  <link rel="shortcut icon" href="{{ site.favicon | relative_url }}">
 
   {% if layout.common-ext-css %}
     {% for css in layout.common-ext-css %}

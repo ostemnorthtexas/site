@@ -39,6 +39,9 @@ avatar: "/assets/img/oSTEM-UNT-avatar-wbg.png"
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
+## Add path to favicon here
+favicon: "/assets/img/favicon.ico"
+
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 #title-img: /path/to/image

@@ -144,6 +144,7 @@ search--it may not be the most up-to-date eligibility criteria." %}
 ## Mentorship Programs
 
 - [Científico Latino's Graduate Student Mentorship Initiative](https://www.cientificolatino.com/gsmi)
+- [Mentorship for Underrepresented STEM Enthusiasts (MUSE)](https://www.musementorship.com/)
 
 ## Groups/Organizations
 
@@ -158,6 +159,7 @@ search--it may not be the most up-to-date eligibility criteria." %}
 - [Trans in STEM](https://twitter.com/stemtrans)
 - [National Postdoctoral Association](https://www.nationalpostdoc.org/)
 - [PhD Balance](https://www.phdbalance.com/)
+- [National Mentoring Resource Center](https://nationalmentoringresourcecenter.org/index.php)
 
 ### LGBTQ+ STEM Organizations Abroad
 
@@ -165,6 +167,11 @@ search--it may not be the most up-to-date eligibility criteria." %}
 - [The STEM Village](https://thestemvillage.co.uk/)
 - [LGBTQ STEM](https://lgbtstem.wordpress.com/)
 - [House of STEM](https://houseofstem.org/)
+- [Queers in Science](https://www.queersinscience.org.au/)
+- [InterEngineering](http://interengineeringlgbt.com/)
+- [LGBT+ Physics](https://twitter.com/lgbt_physics?lang=en)
+- [Queers in STEM](https://twitter.com/QueersInSTEM)
+- [LGBTQ STEM Berlin](https://www.facebook.com/lgbtqstemberlin)
 
 ## Science Communication
 
