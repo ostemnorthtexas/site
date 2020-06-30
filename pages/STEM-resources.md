@@ -146,14 +146,23 @@ search--it may not be the most up-to-date eligibility criteria." %}
 - [Científico Latino's Graduate Student Mentorship Initiative](https://www.cientificolatino.com/gsmi)
 - [Mentorship for Underrepresented STEM Enthusiasts (MUSE)](https://www.musementorship.com/)
 
-## Groups/Organizations
+## Outlists
 
 - [500 Queer Scientists](https://500queerscientists.com/)
+- [Astronomy and Astrophysics Outlist](https://astro-outlist.github.io/)
+- [Diversify Chemistry](https://diversifychemistry.com/)
+- [DiversifyEEB (Ecologists and Evolutionary Biologists)](https://diversifyeeb.com/)
+- [DiverisfyImmunology](https://diversifyimmunology.github.io/)
+- [DiversifyMicrobiology](https://diversifymicrobiology.github.io/)
+
+## Groups/Organizations
+
 - [NOGLSTP](https://www.noglstp.org/)
     - The National Organization of Gay and Lesbian Scientists and Technical
     Professionals
 - [ACS Gay and Transgender Chemists and Allies (GTCA)](https://acsprof.org/subdivisions/lgbt-and-allies/)
 - [ASCB LGBTQ+ Cell Biologists](https://www.ascb.org/committee/lgbtq-task-force/)
+- [LGBTAstro](https://twitter.com/lgbtastro)
 
 - [We Rep STEM](https://werepstem.com/)
 - [Trans in STEM](https://twitter.com/stemtrans)

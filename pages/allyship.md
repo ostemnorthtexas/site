@@ -276,6 +276,49 @@ context
     insurance policies are just some of the ways that LGBTQ+ students are let
     down by campus policies.
 
+## Know the Issues
+- The LGBTQ+ community experiences higher instances of physical and sexual
+violence
+- The LGBTQ+ community (with a special emphasis on the transgender community)
+experience discrimination in health care
+- Health insurance policies are not obligated to cover transition-related
+services in many states
+- The LGBTQ+ community is not legally protected in housing, meaning that they
+can be evicted for their identity or refused housing because of their partner
+- It is dangerous for members of the LGBTQ+ community to travel to certain
+countries because their identities are considered criminal
+- Parenting (especially through adoption) is often denied to LGBTQ+ families
+- Conversion therapy (condemned by the APA) is legal in 30 states
+- Discrimination in public accommodation is legal
+    - Transgender people can be denied the right to use a restroom or
+    participate in gender-based activities as their true gender
+- Transgender people can be sent to prisons under the wrong gender, and are
+often placed in solitary confinement for "protection"
+- Non-binary identities are only legally recognized in a few states, and not
+on any federal documents
+- Many states have specific benchmarks for what qualifies as a gender
+transition (requiring court orders), and restrict access to updated legal
+documentation reflecting someone's name and gender
+- Birth certificates and marriage certificates list parents and spouses under
+binary terms (mother/father, husband/wife) in many states
+
+## General Guidelines
+- Do your homework. Read articles about LGBTQ+ equality and the issues they
+currently face. Learn about what it takes to transition in your state and the
+barriers that exist.
+- Listen when a member of the community talks about their experience. Realize
+that the potential solutions that exist may not be an option for members of the
+community.
+- Call out bias when you see it. Stand up for the LGBTQ+ community, even when
+they're not in the room.
+- Challenge your internal perceptions of gender and sexuality. Work to correct
+your biases based on gender and sexuality. There doesn't have to be a default
+of cisgender and straight because there doesn't have to be a default at all.
+- Fight for equity, but fight harder to dismantle the systems of oppression.
+- Remember that being an ally, but not being intersectional in that allyship,
+is only going to be more damaging in the long-run. Prioritize the most
+marginalized within the community.
+
 ## LGBTQ+ Ally Training
 - [The SafeZone Project: Awareness and Ally Training](https://thesafezoneproject.com/)
 - [Trans 101 - uppercaseCHASE1 on YouTube](https://www.youtube.com/watch?v=VRH0pwENbx8)
