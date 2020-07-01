@@ -115,10 +115,12 @@ updating names and gender markers on identification documents.
 - [Selective Service](https://www.sss.gov/verify/update-info/)
 - Military Records
 - Bank Accounts
+- Leases/Deeds/Titles
 - Credit Cards
-- Medical/Dental Insurance
+- Medical/Dental/Renter's Insurance
 - High School Registrar
 - Birth Certificate
+- Organizations and Volunteer Agencies
 
 ### Do I have to register with Selective Service?
 
@@ -241,3 +243,5 @@ available at these links:
 - [All About Shaving - Hudson's FTM Resource Guide](http://www.ftmguide.org/shaving.html)
 - [Genital Tucking for Trans-Feminine Patients](https://www.prideinpractice.org/articles/transgender-genital-tucking-guide/)
 - [7 Gender-Neutral Period Products You Should Know About](https://www.bustle.com/p/7-gender-neutral-period-products-you-should-know-about-17996710)
+- Voice Pitch Analyze App [Apple](https://apps.apple.com/us/app/voice-pitch-analyzer/id1302785788)
+[Google Play](https://play.google.com/store/apps/details?id=de.lilithwittmann.voicepitchanalyzer&hl=en_US)

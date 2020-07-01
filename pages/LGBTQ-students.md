@@ -37,6 +37,7 @@ and researchers.
 - [Faculty as Sources of Support for LGBTQ College Students, 2016](https://doi.org/10.1080/87567555.2015.1078275)
 - [Lesbian, Gay, Bisexual, Transgender, and Queer Students' Sense of Belonging in Computing: An Intersectional Approach, 2016](http://doi.org/10.1109/MCSE.2016.45)
 - [Queer in STEM: Workplace Experiences Reported in a National Survey of LGBTQA Individuals in Science, Technology, Engineering, and Mathematics Careers, 2015](https://doi.org/10.1080/00918369.2015.1078632)
+- [LGBT+ Climate in Physics, 2015](https://www.aps.org/programs/lgbt/index.cfm)
 - [Factors impacting the academic climate for LGBQ STEM faculty, 2014](https://doi.org/10.1615/JWomenMinorScienEng.2014007429)
 - [Navigating the heteronormativity of engineering: the experiences of lesbian, gay, and bisexual students, 2011](https://doi.org/10.1080/19378629.2010.545065)
 
