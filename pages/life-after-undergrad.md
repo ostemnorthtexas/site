@@ -27,9 +27,11 @@ A recording of our Fall 2019 meeting about Graduate and Professional School apps
 
 * [Bio/Biomedical Graduate Programs Dropping GRE Requirement](https://docs.google.com/spreadsheets/d/1MYcxZMhf97H5Uxr2Y7XndHn6eEC5oO8XWQi2PU5jLxQ/edit#gid=0)
 * [Chemistry: GRE Subject Test Requirements by Grad School](https://docs.google.com/spreadsheets/d/19lfwzMSaxqzo5riR0Ir1PLc7FPmU3QQBeZAkt4vug7U/edit#gid=0)
+* [Cog. Psych. / Neuroscience Graduate Programs GRE Requirements](https://docs.google.com/spreadsheets/d/1AoF0Ofq3R5tFgxgnGWKWn4QtOHcy_55gUB0MXmeerYQ/edit#gid=0)
 * [GRE requirements & admissions fees for US/Canadian Astronomy & Physics Programs](https://docs.google.com/spreadsheets/d/19UhYToXOPZkZ3CM469ru3Uwk4584CmzZyAVVwQJJcyc/edit#gid=0)
 * [US-based Geology/Geography programs that have dropped GRE](https://docs.google.com/spreadsheets/d/1ZUZowZJ25DtqCgr3kK_Ief1C0YOnrZeADcm4K81bq08/htmlview)
 * [Plant-Associated Graduate Programs Dropping the GRE Requirement](https://docs.google.com/spreadsheets/d/1EH8OMJaWCLp-nLEFEx9uMDcSxbREDLWy1SE4QWVYWus/edit#gid=0)
+* [USA and Canada Clinical/Counseling Psych PhD GRE Requirements](https://docs.google.com/spreadsheets/d/1f6ZyVGn-opa_ijRyntHxfJJkaSNya4h-bwEDeDGInv4/edit#gid=0)
 * [Public Health Graduate Programs Dropping GRE Requirement](https://docs.google.com/spreadsheets/d/1j-7-kThlYphF9D0HX1aSNFYl8ksFrIgD68Qz0njHYAY/edit)
 
 ### Professional

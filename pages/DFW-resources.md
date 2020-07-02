@@ -87,9 +87,10 @@ cover-img: assets/img/headers/Dallas-skyline.jpg
 ## Religious Resources
 
 - [Believe Out Loud - LGBTQ+ Inclusive Religious Spaces](https://www.believeoutloud.com/)
-- [Find a Religious Welcoming Congregation](welcomingresources.org/usa)
+- [Find a Religious Welcoming Congregation](http://welcomingresources.org/usa)
 - [Keshet - LGBTQ Equality in Jewish Life](https://www.keshetonline.org/)
 - [Muslim Alliance for Sexual and Gender Diversity](http://www.muslimalliance.org/)
+- ["I'm Muslim and My Gender Doesn't Fit Me"](https://advocatesforyouth.org/wp-content/uploads/2019/05/Im-Muslim-My-Gender-Doesnt-Fit-Me.pdf)
 - [LGBT Religious Organization Resource List](https://www.pbs.org/independentlens/content/love-free-or-die_lgbt-religious-organizations-html/)
 
 ## Additional Resources
