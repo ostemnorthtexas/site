@@ -33,6 +33,9 @@ A recording of our Fall 2019 meeting about Graduate and Professional School apps
 * [Plant-Associated Graduate Programs Dropping the GRE Requirement](https://docs.google.com/spreadsheets/d/1EH8OMJaWCLp-nLEFEx9uMDcSxbREDLWy1SE4QWVYWus/edit#gid=0)
 * [USA and Canada Clinical/Counseling Psych PhD GRE Requirements](https://docs.google.com/spreadsheets/d/1f6ZyVGn-opa_ijRyntHxfJJkaSNya4h-bwEDeDGInv4/edit#gid=0)
 * [Public Health Graduate Programs Dropping GRE Requirement](https://docs.google.com/spreadsheets/d/1j-7-kThlYphF9D0HX1aSNFYl8ksFrIgD68Qz0njHYAY/edit)
+* [Math GRExit (with USNWR ranking)](https://docs.google.com/spreadsheets/d/1oMMAOXt2CuJW1ztTUP4Ro_qSNt2F4lI8uiy8QyaqKCI/edit#gid=0)
+* [USA/Canada Math PhD Programs: GRE requirements and Qualifying Exams](https://docs.google.com/spreadsheets/d/1hmdO7af3-lLvtJQO-szayG6blTvAYBQ1JcYXFZ_6apE/edit#gid=0)
+* [Bio/Biomedical PhD TOEFL List](https://docs.google.com/spreadsheets/d/1C7gTUGeOV_mGdtCdnsXSFHr7tjimuqpL/edit#gid=1957986252)
 
 ### Professional
 
