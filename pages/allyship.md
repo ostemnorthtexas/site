@@ -331,6 +331,7 @@ marginalized within the community.
 - [7 Microaggressions Trans People Face in Health and Mental Healthcare Settings](http://blog.lighthouse.lgbt/transgender-healthcare-microaggressions/)
 - [The Nonbinary Fraction: Looking Towards the Future of Gender Equity in Astronomy](https://arxiv.org/abs/1907.04893)
 - [Flushing Away Scientists: Upcoming Supreme Court case may limit the participation of transgender people in STEM for generations to come](https://mystudentvoices.com/flushing-away-scientists-4bb72c9e7f91)
+- [What I Wish People Understood About Being a Trans Scientist](https://www.asbmb.org/asbmb-today/opinions/100119/being-a-trans-scientist)
 - [Transgender Researchers Want to Make an Impact](https://www.sciencenewsforstudents.org/article/transgender-researchers-want-make-impact)
 - [Campus Pride Trans Policy Clearinghouse](https://www.campuspride.org/tpc/)
 - [Despite training and resources, transgender students still face healthcare barriers on campus (ASU, 2020)](https://www.statepress.com/article/2020/04/spmagazine-transgender-mental-health-asu)

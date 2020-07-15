@@ -34,6 +34,18 @@ Call 1.888.843.4564
 
 
 ## General Crisis Support
+- [Anti-Violence Project](https://avp.org/get-help/call-our-hotline/):
+Call 1.212.714.1141
+    - 24/7 support for people who have experienced or witnessed violence, and
+    the people who care about those that have
+    - Tambien en español
+
+- [BlackLine](https://www.callblackline.com/): Call 1.800.604.5841
+    - 24/7 support that prioritizes the needs of those that are Black,
+    Indigenous, and People of Color
+    - Space to talk about experiences with law enforcement, vigilantes, and
+    being targeted within your community
+
 - [Crisis Text Line](https://www.crisistextline.org/): Text LGBTQ to 741-741
     - 24/7 support for people in crisis
 
@@ -107,13 +119,19 @@ Call 1.214.828.1000
     - Website for finding local free or affordable counseling
 - [Aunt Bertha](https://www.auntbertha.com/)
     - Website for finding free or reduced cost services
+- [Inclusive Therapists](https://www.inclusivetherapists.com/)
+    - Website for finding therapists that affirm all people
+- [National Queer and Trans Therapists of Color Network](https://www.nqttcn.com/)
+    - Web directory of therapists and resources dedicated to the mental health
+    of queer and trans people of color
 - [Woebot](https://woebot.io/)
     - Free app used for cognitive behavioral therapy
 - [Calm Harm](https://calmharm.co.uk/)
     - Free app with alternate activities to self-harm
 - What's Up? - A Mental Health App
     - Free app for coping with anxiety, depression, and stress
-    - [Apple](https://apps.apple.com/us/app/id968251160?mt=8) [Google Play](https://play.google.com/store/apps/details?id=com.jacksontempra.apps.whatsup&hl=en_US)
+    - [Apple](https://apps.apple.com/us/app/id968251160?mt=8)
+    [Google Play](https://play.google.com/store/apps/details?id=com.jacksontempra.apps.whatsup&hl=en_US)
 - [MyPlan](https://www.myplanapp.org/home)
     - Free app for safety planning for relationship abuse
 - [My3](https://my3app.org/)
