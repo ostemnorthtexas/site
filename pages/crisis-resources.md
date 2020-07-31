@@ -7,6 +7,11 @@ title: In a Crisis?
 {:toc}
 
 ## LGBTQ+ Crisis Support
+- [THRIVE Lifeline](https://thrivelifeline.org/): Text 1.313.662.8209
+    - 24/7 crisis support
+    - Support for those with underrepresented identities facing barriers in STEM
+    - Staffed by people in STEM fields that have marginalized identities
+
 - [Trevor Project](https://www.thetrevorproject.org/get-help-now/):
 Call 1.866.488.7386
     - 24/7 crisis support for LGBTQ+ youth aged 13-24
