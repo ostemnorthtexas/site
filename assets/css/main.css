@@ -40,6 +40,9 @@ h1 {
 h1 span {
     background-color: black;
 }
+sub-heading-bkgd span {
+    background-color: black;
+}
 /* End Add */
 h2 {
   font-size: 1.875rem;
