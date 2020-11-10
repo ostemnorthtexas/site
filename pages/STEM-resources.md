@@ -8,16 +8,19 @@ cover-img: assets/img/headers/milky-way-rainbow.jpg
 {:toc}
 
 ## General
+
 - [Undergrad in the Lab](https://undergradinthelab.com/)
 - [NIH Equity, Diversity, and Inclusion](https://www.edi.nih.gov/)
 - [Resources on Disability Inclusion in STEM](https://www.femmedechem.com/resources)
 - [Exactly the Same Atoms](https://exactlythesameatoms.wixsite.com/exactlythesameatoms)
 
 ## Fellowships and Scholarships
+
 This is a very incomplete list of funding sources for undergraduate and
 graduate students, but it is a starting point with some of the major ones.
 
 ### Acronyms
+
 * __CAS__: Chemical Abstracts Service
 * __DOD__: Department of Defense
 * __DOE__: Department of Energy
@@ -144,13 +147,15 @@ search--it may not be the most up-to-date eligibility criteria." %}
 ## Mentorship Programs
 
 - [Científico Latino's Graduate Student Mentorship Initiative](https://www.cientificolatino.com/gsmi)
+- [Future Docs with Disabilities Mentoring](https://twitter.com/disabled_docs/status/1292452047204290560?s=10)
 - [Mentorship for Underrepresented STEM Enthusiasts (MUSE)](https://www.musementorship.com/)
 
 ## Outlists
 
 - [500 Queer Scientists](https://500queerscientists.com/)
 - [Astronomy and Astrophysics Outlist](https://astro-outlist.github.io/)
-- [Diversify Chemistry](https://diversifychemistry.com/)
+- [Diverse Geologists](https://www.diversegeologists.org/)
+- [DiversifyChemistry](https://diversifychemistry.com/)
 - [DiversifyEEB (Ecologists and Evolutionary Biologists)](https://diversifyeeb.com/)
 - [DiverisfyImmunology](https://diversifyimmunology.github.io/)
 - [DiversifyMicrobiology](https://diversifymicrobiology.github.io/)
@@ -213,6 +218,7 @@ search--it may not be the most up-to-date eligibility criteria." %}
 - [Codecademy](https://www.codecademy.com/)
 
 ### Cheatsheets
+
 - [DevHints – a robust cheat sheet library](https://devhints.io/)
 - [Git Cheatsheet 1](https://github.github.com/training-kit/)
 - [Git Cheatsheet 2](https://joaorodrigues.github.io/git-cheat-sheet/)
@@ -221,10 +227,33 @@ search--it may not be the most up-to-date eligibility criteria." %}
 - [R and R Packages](https://rstudio.com/resources/cheatsheets/)
 
 ## Academic
+
 - [Unpaywall Browser Extension](https://unpaywall.org/)
 - [Khan Academy](https://www.khanacademy.org/)
 - [Connected Papers](https://www.connectedpapers.com/)
 - [How to Write a Thorough Peer Review](https://www.nature.com/articles/d41586-018-06991-0)
+
+## Accessibility in STEM
+
+- [UNT's ODA Resource List](https://disability.unt.edu/resources)
+
+- [American Chronic Pain Association](https://www.theacpa.org/)
+- [Assistive Tech](http://assistivetech.net/search/products_for_disability.php)
+- [Autism Source](https://source.autism-society.org/autismsource/)
+- [BeeLine Reader](https://www.beelinereader.com/)
+- [Blackboard Ally File Transformer](https://ally.ac/covid19/)
+- [Children and Adults with ADD/ADHD (CHADD)](https://chadd.org/)
+- [Ergonomic Products](https://ehs.ucsc.edu/programs/ergo/documents/lab-ergo-products.pdf)
+- [Glean (Note-Taking App)](https://glean.co/)
+- [James Madison University Chemistry REU (d/Deaf and HoH)](https://www.jmu.edu/chemistry/reu/)
+- [Job Accommodation Network (JAN)](https://askjan.org/)
+- [Learning Ally (Audiobooks)](https://learningally.org/)
+- [NIH Postbaccalaureate Research Education Program (PREP) Program](https://www.nigms.nih.gov/training/PREP/Pages/default.aspx)
+- [OpenDyslexic Font](https://opendyslexic.org/)
+- [Otter AI - voice transcription](https://otter.ai/)
+- [Science & Engineering Leadership Initiative (SELI)](https://sites.udel.edu/seli-ud/application/)
+- [Shape Math (Dyscalculia)](https://shapemath.com/)
+- [Stairway to STEM (Austism)](https://www.stairwaytostem.org/)
 
 ## Relevant Literature
 

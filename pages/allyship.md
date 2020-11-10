@@ -382,6 +382,8 @@ marginalized within the community.
 - [Google Slides Captions](https://support.google.com/docs/answer/9109474?hl=en)
 - [Microsoft PowerPoint Captions](https://support.microsoft.com/en-us/office/present-with-real-time-automatic-captions-or-subtitles-in-powerpoint-68d20e49-aec3-456a-939d-34a79e8ddd5f)
 - [Job Accommodation Network](https://askjan.org/)
+- [Accessibility 101: STEM Edition](https://sbctc.instructure.com/courses/1698678)
+- [AccessSTEM - universal design](https://www.washington.edu/doit/programs/accessstem/overview)
 
 ## GRExit
 

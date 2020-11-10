@@ -1,6 +1,8 @@
 ---
 layout: page
 title: In a Crisis?
+description: "A list of national and local crisis resources, as well as mental
+health apps."
 ---
 
 * TOC
@@ -31,11 +33,12 @@ Call 1.888.843.4564
     - Youth Talk Line (<25): 1.800.246.PRIDE (1.800.246.7743)
     - Senior support line (ages 50+): 1.888.234.7243
 
+<!-- Comment out because offline since Aug 2020
 - [Fenway Health Helpline](http://fenwayhealth.org/care/wellness-resources/help-lines/)
-    - Peer support on topics such as coming out, safe sex, harrassment,
+    - Peer support on topics such as coming out, safe sex, harassment,
     HIV/AIDS, and depression
     - Ages 25+: 1.617.267.9001, M-Sa 5pm-10pm CT
-    - Ages 25 and under: 1.617.267.2535, M-Sa 4pm-10pm CT
+    - Ages 25 and under: 1.617.267.2535, M-Sa 4pm-10pm CT -->
 
 
 ## General Crisis Support
