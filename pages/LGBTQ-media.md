@@ -58,10 +58,13 @@ marked with a content warning (cw).
 - [I Blocked My Grandmother on Facebook - Schuyler Bailar](https://www.youtube.com/watch?v=zstj8g0ctRM)
 
 ## Podcasts
+- [Disability After Dark](https://www.stitcher.com/podcast/andrew-gurza/disabilityafterdark)
+- [LGBTQ+ STEM Cast](https://anchor.fm/lgbtqstemcast)
 - [My Fave Queer Chemist](https://www.stitcher.com/podcast/my-fave-queer-chemist/e/67457673)
 - [Queer STEM History](https://player.whooshkaa.com/shows/queer-stem-history)
 - [SciCurious Podcast](https://www.scicurious.co.uk/)
-- [Disability After Dark](https://www.stitcher.com/podcast/andrew-gurza/disabilityafterdark)
+- [STEM Diversity Podcast](https://www.stitcher.com/show/stem-diversity-podcast)
+- [STEM Equity Network](https://stemequitynetwork.com/)
 
 ## Music
 - [<i>Everyone is Gay</i> - A Great Big World](https://www.youtube.com/watch?v=0VG1bj4Lj1Q)
