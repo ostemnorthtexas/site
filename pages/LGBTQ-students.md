@@ -9,37 +9,17 @@ cover-img: assets/img/headers/qtpocflaghalf.png
 
 This page is intended for course instructors and teaching assistants to learn
 more about supporting their LGBTQ+ students.
+Classrooms are not always supportive places for LGBTQ+ students--it can be
+hard to know who is an ally.
+You can foster a welcoming environment for your LGBTQ+ students by being
+cognizant of chosen names and pronouns, recognizing that students may have
+unsupportive home situations, including syllabus statements that demonstrate
+your support, and being willing to learn about LGBTQ+ issues.
 
 {% include image.html file="../../../assets/img/EML-trans-poster.png"
 alt="A poster about supporting trans students with the trans flag as the
 background." caption='A text-based description of this poster is available
 on <a href="https://twitter.com/EmLedd1/status/1234812260515749889">Twitter</a>.'%}
-
-## The Data
-
-Before we get into the nitty gritty, here are some resources with data about
-the lack of equality or specific challenges faced for LGBTQ+ students, faculty,
-and researchers.
-
-- [Examining the STEM Climate for Queer Students with Disabilities, accepted](https://www.researchgate.net/profile/Ryan_Miller39/publication/334654579_Examining_the_STEM_Climate_for_Queer_Students_with_Disabilities/links/5d38737b299bf1995b47110b/Examining-the-STEM-Climate-for-Queer-Students-with-Disabilities.pdf)
-- [“It’s dude culture”: Students with minoritized identities of sexuality and/or gender navigating STEM majors, 2020](http://doi.org/10.1037/dhe0000171)
-- [A Model of Queer STEM Identity in the Workplace, 2019](https://doi.org/10.1080/00918369.2019.1610632)
-- [A Long Way to go for LGBTI Equality, 2019](https://fra.europa.eu/en/publication/2020/eu-lgbti-survey-results)
-    - European Union Agency for Fundamental Rights
-    - The metrics about discrimination faced have gone up since 2012
-- [Exploring the Workplace For LGBT+ Physical Scientists, 2019](https://www.rsc.org/globalassets/04-campaigning-outreach/campaigning/lgbt-report/lgbt-report_web.pdf)
-- [Coming out in STEM: Factors affecting retention of sexual minority STEM students, 2018](http://doi.org/10.1126/sciadv.aao6373)
-- [Examining the Ecological Systems of LGBTQ STEM Majors, 2018](http://doi.org/10.1615/JWomenMinorScienEng.2017018836)
-- [Coming Out in Class: Challenges and Benefits of Active Learning in a Biology Classroom for LGBTQIA Students, 2017](https://doi.org/10.1187/cbe.16-01-0074)
-- [“Managing by Not Managing”: How Gay Engineering Students Manage Sexual Orientation Identity, 2017](http://doi.org/10.1353/csd.2017.0029)
-- [Victimization and Microaggressions Targeting LGBTQ College Students: Gender Identity As a Moderator of Psychological Distress, 2016](https://doi.org/10.1080/15313204.2016.1263816)
-- [Heterosexism, Depression, and Campus Engagement Among LGBTQ College Students: Intersectional Differences and Opportunities for Healing, 2016](https://doi.org/10.1080/00918369.2016.1242333)
-- [Faculty as Sources of Support for LGBTQ College Students, 2016](https://doi.org/10.1080/87567555.2015.1078275)
-- [Lesbian, Gay, Bisexual, Transgender, and Queer Students' Sense of Belonging in Computing: An Intersectional Approach, 2016](http://doi.org/10.1109/MCSE.2016.45)
-- [Queer in STEM: Workplace Experiences Reported in a National Survey of LGBTQA Individuals in Science, Technology, Engineering, and Mathematics Careers, 2015](https://doi.org/10.1080/00918369.2015.1078632)
-- [LGBT+ Climate in Physics, 2015](https://www.aps.org/programs/lgbt/index.cfm)
-- [Factors impacting the academic climate for LGBQ STEM faculty, 2014](https://doi.org/10.1615/JWomenMinorScienEng.2014007429)
-- [Navigating the heteronormativity of engineering: the experiences of lesbian, gay, and bisexual students, 2011](https://doi.org/10.1080/19378629.2010.545065)
 
 ## Calling Roll
 
@@ -141,6 +121,36 @@ impacts on helping your LGBTQ+ students feel respected.
 
 I'll talk about them later.
 {%endcomment%}
+
+## The Data
+
+Here are some resources with data about the lack of equality or specific
+challenges faced for LGBTQ+ students, faculty, and researchers.
+
+- [Creating Safe Spaces: Opportunities, Resources, and LGBTQ Student Groups at U.S. Colleges and Universities, 2020](https://doi.org/10.1177/2378023120971472)
+- [Microaggressions Experienced by LGBTQ Students With Disabilities, 2020](https://doi.org/10.1080/19496591.2020.1835669)
+- [Out of (Queer/Disabled) Time: Temporal Experiences of Disability and LGBTQ+ Identities in U.S. Higher Education, 2020](https://doi.org/10.14288/ce.v11i16.186495)
+- [“Whose Liability Is It Anyway?” Cultivating an Inclusive College Climate for Autistic LGBTQ Students, 2020](https://doi.org/10.1177/1555458919897942)
+- [Examining the STEM Climate for Queer Students with Disabilities, 2020](https://www.researchgate.net/profile/Ryan_Miller39/publication/334654579_Examining_the_STEM_Climate_for_Queer_Students_with_Disabilities/links/5d38737b299bf1995b47110b/Examining-the-STEM-Climate-for-Queer-Students-with-Disabilities.pdf)
+- [“It’s dude culture”: Students with minoritized identities of sexuality and/or gender navigating STEM majors, 2020](http://doi.org/10.1037/dhe0000171)
+- [LGBTQ+ college students with disabilities: demographic profile and perceptions of well-being, 2019](https://doi.org/10.1080/19361653.2019.1706686)
+- [A Model of Queer STEM Identity in the Workplace, 2019](https://doi.org/10.1080/00918369.2019.1610632)
+- [A Long Way to go for LGBTI Equality, 2019](https://fra.europa.eu/en/publication/2020/eu-lgbti-survey-results)
+    - European Union Agency for Fundamental Rights
+    - The metrics about discrimination faced have gone up since 2012
+- [Exploring the Workplace For LGBT+ Physical Scientists, 2019](https://www.rsc.org/globalassets/04-campaigning-outreach/campaigning/lgbt-report/lgbt-report_web.pdf)
+- [Coming out in STEM: Factors affecting retention of sexual minority STEM students, 2018](http://doi.org/10.1126/sciadv.aao6373)
+- [Examining the Ecological Systems of LGBTQ STEM Majors, 2018](http://doi.org/10.1615/JWomenMinorScienEng.2017018836)
+- [Coming Out in Class: Challenges and Benefits of Active Learning in a Biology Classroom for LGBTQIA Students, 2017](https://doi.org/10.1187/cbe.16-01-0074)
+- [“Managing by Not Managing”: How Gay Engineering Students Manage Sexual Orientation Identity, 2017](http://doi.org/10.1353/csd.2017.0029)
+- [Victimization and Microaggressions Targeting LGBTQ College Students: Gender Identity As a Moderator of Psychological Distress, 2016](https://doi.org/10.1080/15313204.2016.1263816)
+- [Heterosexism, Depression, and Campus Engagement Among LGBTQ College Students: Intersectional Differences and Opportunities for Healing, 2016](https://doi.org/10.1080/00918369.2016.1242333)
+- [Faculty as Sources of Support for LGBTQ College Students, 2016](https://doi.org/10.1080/87567555.2015.1078275)
+- [Lesbian, Gay, Bisexual, Transgender, and Queer Students' Sense of Belonging in Computing: An Intersectional Approach, 2016](http://doi.org/10.1109/MCSE.2016.45)
+- [Queer in STEM: Workplace Experiences Reported in a National Survey of LGBTQA Individuals in Science, Technology, Engineering, and Mathematics Careers, 2015](https://doi.org/10.1080/00918369.2015.1078632)
+- [LGBT+ Climate in Physics, 2015](https://www.aps.org/programs/lgbt/index.cfm)
+- [Factors impacting the academic climate for LGBQ STEM faculty, 2014](https://doi.org/10.1615/JWomenMinorScienEng.2014007429)
+- [Navigating the heteronormativity of engineering: the experiences of lesbian, gay, and bisexual students, 2011](https://doi.org/10.1080/19378629.2010.545065)
 
 ## Additional Resources
 - [Strategies for Creating More Trans<sup>\*</sup>-Affirmative Classrooms](https://www.insidehighered.com/advice/2018/10/12/how-create-affirming-experiences-college-trans-students-opinion)
