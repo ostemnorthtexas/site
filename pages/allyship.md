@@ -7,8 +7,6 @@ cover-img: assets/img/headers/ally-speaker.png
 * TOC
 {:toc}
 
-This page is under development.
-
 ## Allyship Alphabet Soup
 
 There are a lot of terms used by the LGBTQ+ community and the those involved in
@@ -319,6 +317,52 @@ of cisgender and straight because there doesn't have to be a default at all.
 is only going to be more damaging in the long-run. Prioritize the most
 marginalized within the community.
 
+## Surveys: Asking the Gender Question
+There are a few things to consider when asking for gender and sexuality in
+demographic questions.
+First, why are you asking?
+Is it to get an understanding of your target population?
+Is it relevant to your needs?
+Do you just feel like you should?
+The way you obtain this information will depend on your answers to these
+questions.
+For instance, is it really relevant to what you're studying to know if someone
+answering is transgender or asexual?
+If you're doing a climate survey, it probably is!
+You also want to consider how you plan on coding the data, and what will happen
+if you do not have enough responses for an aggregate.
+- If only one person responds with "non-binary", are you invalidating all their
+answers because you want to classify everything by gender?
+- Would grouping responses for a self-description be possible?
+
+In general, it is best to offer at least three categories: woman, man, and
+non-binary.
+Male and female describe sexes and man and woman describe genders.
+If your survey is making every question required, you should also offer a
+"Prefer not to describe" option.
+When possible, self-description is the best, but that can be difficult to
+code and analyze effectively.
+
+If it is necessary to know about trans status, then ask as secondary question.
+Separating out "cisgender woman/cisgender man" and
+"transgender woman/transgender man" can make it seem like cisgender and
+transgender people have different genders, and can lead to the impression that
+transgender people are not the gender that they are.
+
+> **What best describes your gender identity?**
+>
+> - Woman
+> - Man
+> - Non-binary
+> - Prefer not to disclose
+> - Prefer to self-describe: [ ]
+
+> **Do you identify as transgender? (Transgender means not having a gender identity that matches the one you were assigned at birth. It can include non-binary genders.)**
+>
+> - Yes
+> - No
+> - Prefer not to disclose
+
 ## LGBTQ+ Ally Training
 - [The SafeZone Project: Awareness and Ally Training](https://thesafezoneproject.com/)
 - [Trans 101 - uppercaseCHASE1 on YouTube](https://www.youtube.com/watch?v=VRH0pwENbx8)
@@ -379,11 +423,17 @@ marginalized within the community.
 - [Color Oracle - Color Blindness Simulator](https://colororacle.org/)
 - [PDFComment - LaTeX package for tagged PDFs (alt text!)](https://ctan.org/pkg/pdfcomment?lang=en)
 - [Otter AI - voice transcription](https://otter.ai/login)
+- [Alternatives to Otter AI](https://sourceforge.net/software/product/Otter.ai/alternatives)
+- [Web Captioner](https://webcaptioner.com/)
+- [Krisp AI (background noise remover)](https://krisp.ai/)
 - [Google Slides Captions](https://support.google.com/docs/answer/9109474?hl=en)
 - [Microsoft PowerPoint Captions](https://support.microsoft.com/en-us/office/present-with-real-time-automatic-captions-or-subtitles-in-powerpoint-68d20e49-aec3-456a-939d-34a79e8ddd5f)
 - [Job Accommodation Network](https://askjan.org/)
 - [Accessibility 101: STEM Edition](https://sbctc.instructure.com/courses/1698678)
 - [AccessSTEM - universal design](https://www.washington.edu/doit/programs/accessstem/overview)
+- [ASLCORE - discipline specific ASL vocabulary](https://aslcore.org/)
+- [Blind Scientist Tools](https://monaminkara.com/blind-scientist-tools/)
+- [Laboratory Ergonomic Products](https://ehs.ucsc.edu/programs/ergo/documents/lab-ergo-products.pdf)
 
 ## GRExit
 

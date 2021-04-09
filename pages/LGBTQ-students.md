@@ -127,9 +127,15 @@ I'll talk about them later.
 Here are some resources with data about the lack of equality or specific
 challenges faced for LGBTQ+ students, faculty, and researchers.
 
+- [Visible name changes promote inequity for transgender researchers, 2021](https://doi.org/10.1371/journal.pbio.3001104)
+- [Measuring and Resolving LGBTQ Disparities in STEM, 2021](https://www.freemanlab.org/s/2020_Freeman_PIBBS.pdf)
+- [Systemic inequalities for LGBTQ professionals in STEM, 2021](https://doi.org/10.1126/sciadv.abe0933)
+- [Increasing the visibility of LGBTQ+ researchers in STEM, 2020][https://doi.org/10.1016/S0140-6736(20)32626-X]
 - [Creating Safe Spaces: Opportunities, Resources, and LGBTQ Student Groups at U.S. Colleges and Universities, 2020](https://doi.org/10.1177/2378023120971472)
+- [Turing’s children: Representation of sexual minorities in STEM, 2020](https://doi.org/10.1371/journal.pone.0241596)
 - [Microaggressions Experienced by LGBTQ Students With Disabilities, 2020](https://doi.org/10.1080/19496591.2020.1835669)
 - [Out of (Queer/Disabled) Time: Temporal Experiences of Disability and LGBTQ+ Identities in U.S. Higher Education, 2020](https://doi.org/10.14288/ce.v11i16.186495)
+- [Finding community and overcoming barriers: experiences of queer and transgender postsecondary students in mathematics and other STEM fields, 2020](https://doi.org/10.1007/s13394-020-00356-5)
 - [“Whose Liability Is It Anyway?” Cultivating an Inclusive College Climate for Autistic LGBTQ Students, 2020](https://doi.org/10.1177/1555458919897942)
 - [Examining the STEM Climate for Queer Students with Disabilities, 2020](https://www.researchgate.net/profile/Ryan_Miller39/publication/334654579_Examining_the_STEM_Climate_for_Queer_Students_with_Disabilities/links/5d38737b299bf1995b47110b/Examining-the-STEM-Climate-for-Queer-Students-with-Disabilities.pdf)
 - [“It’s dude culture”: Students with minoritized identities of sexuality and/or gender navigating STEM majors, 2020](http://doi.org/10.1037/dhe0000171)
@@ -142,7 +148,9 @@ challenges faced for LGBTQ+ students, faculty, and researchers.
 - [Coming out in STEM: Factors affecting retention of sexual minority STEM students, 2018](http://doi.org/10.1126/sciadv.aao6373)
 - [Examining the Ecological Systems of LGBTQ STEM Majors, 2018](http://doi.org/10.1615/JWomenMinorScienEng.2017018836)
 - [Coming Out in Class: Challenges and Benefits of Active Learning in a Biology Classroom for LGBTQIA Students, 2017](https://doi.org/10.1187/cbe.16-01-0074)
+- [Coming out: the experience of LGBT+ people in STEM](https://doi.org/10.1186/s13059-017-1198-y)
 - [“Managing by Not Managing”: How Gay Engineering Students Manage Sexual Orientation Identity, 2017](http://doi.org/10.1353/csd.2017.0029)
+- [Queer in STEM Organizations: Workplace Disadvantages for LGBT Employees in STEM Related Federal Agencies, 2017](https://doi.org/10.3390/socsci6010012)
 - [Victimization and Microaggressions Targeting LGBTQ College Students: Gender Identity As a Moderator of Psychological Distress, 2016](https://doi.org/10.1080/15313204.2016.1263816)
 - [Heterosexism, Depression, and Campus Engagement Among LGBTQ College Students: Intersectional Differences and Opportunities for Healing, 2016](https://doi.org/10.1080/00918369.2016.1242333)
 - [Faculty as Sources of Support for LGBTQ College Students, 2016](https://doi.org/10.1080/87567555.2015.1078275)

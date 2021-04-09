@@ -11,8 +11,9 @@ health apps."
 ## LGBTQ+ Crisis Support
 - [THRIVE Lifeline](https://thrivelifeline.org/): Text THRIVE to <a href="sms:+13136628209&body=THRIVE">+1.313.662.8209</a>
     - 24/7 crisis support
-    - Support for those with underrepresented identities facing barriers in STEM
-    - Staffed by people in STEM fields that have marginalized identities
+    - Support for those with underrepresented identities facing barriers in
+    STEMM
+    - Staffed by people in STEMM fields that have marginalized identities
 
 - [Trevor Project](https://www.thetrevorproject.org/get-help-now/):
 Call <a href="tel:+18664887386">+1.866.488.7386</a>
@@ -131,13 +132,22 @@ Call <a href="tel:+12148281000">+1.214.828.1000</a>
     - Resource for college mental health with a symptom self-evaluation tool
 - [Open Counseling](https://www.opencounseling.com/)
     - Website for finding local free or affordable counseling
-- [Aunt Bertha](https://www.auntbertha.com/)
+- [Find Help](https://www.findhelp.org/)
     - Website for finding free or reduced cost services
 - [Inclusive Therapists](https://www.inclusivetherapists.com/)
     - Website for finding therapists that affirm all people
 - [National Queer and Trans Therapists of Color Network](https://www.nqttcn.com/)
     - Web directory of therapists and resources dedicated to the mental health
     of queer and trans people of color
+- [Therapy for Queer People of Color](https://therapyforqpoc.com/qpoc-therapist-directory-1#!directory)
+    - Web directory of inclusive mental health providers
+- [Therapy for Black Girls](https://providers.therapyforblackgirls.com/)
+    - Web directory of mental health professionals; podcast
+- [Latinx Therapy](https://latinxtherapy.com/)
+    - Website for finding Latina/o/e/x mental health professionals
+- [Gaylesta](https://directory.gaylesta.org/find-a-therapist/)
+    - Web directory of mental health professionals with experience in
+    counseling the LGBTQ+ community
 - [Woebot](https://woebot.io/)
     - Free app used for cognitive behavioral therapy
 - [Calm Harm](https://calmharm.co.uk/)
@@ -154,6 +164,17 @@ Call <a href="tel:+12148281000">+1.214.828.1000</a>
     - Free app for monitoring and managing schizophrenia
 - [SuperBetter App](https://www.superbetter.com/)
     - Free app for building resiliency
+- [EXHALE App](https://www.kataramccarty.com/katara-exhale-app)
+    - Free emotional well-being app designed for Black, Indigenous, Women of
+    Color (BIWOC)
+- [Liberate App](https://liberatemeditation.com/)
+    - Free meditation app for the Black community
+- [Insight Timer](https://insighttimer.com/)
+    - Free meditation app for sleep, anxiety, and stress
+- [Loosid App](https://loosidapp.com/)
+    - Free community-building app for people in sobriety
+- [Mood Meter](https://moodmeterapp.com/)
+    - Free app for tracking moods and building up emotional intelligence
 - [Youper](https://www.youper.ai/)
     - Free app for mood tracking and building coping skills
 - [PTSD Coach](https://www.ptsd.va.gov/appvid/mobile/ptsdcoach_app.asp)
