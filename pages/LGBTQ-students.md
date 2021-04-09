@@ -130,7 +130,7 @@ challenges faced for LGBTQ+ students, faculty, and researchers.
 - [Visible name changes promote inequity for transgender researchers, 2021](https://doi.org/10.1371/journal.pbio.3001104)
 - [Measuring and Resolving LGBTQ Disparities in STEM, 2021](https://www.freemanlab.org/s/2020_Freeman_PIBBS.pdf)
 - [Systemic inequalities for LGBTQ professionals in STEM, 2021](https://doi.org/10.1126/sciadv.abe0933)
-- [Increasing the visibility of LGBTQ+ researchers in STEM, 2020][https://doi.org/10.1016/S0140-6736(20)32626-X]
+- [Increasing the visibility of LGBTQ+ researchers in STEM, 2020](https://doi.org/10.1016/S0140-6736(20)32626-X)
 - [Creating Safe Spaces: Opportunities, Resources, and LGBTQ Student Groups at U.S. Colleges and Universities, 2020](https://doi.org/10.1177/2378023120971472)
 - [Turing’s children: Representation of sexual minorities in STEM, 2020](https://doi.org/10.1371/journal.pone.0241596)
 - [Microaggressions Experienced by LGBTQ Students With Disabilities, 2020](https://doi.org/10.1080/19496591.2020.1835669)
