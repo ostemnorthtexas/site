@@ -58,6 +58,7 @@ marked with a content warning (cw).
 - [I Blocked My Grandmother on Facebook - Schuyler Bailar](https://www.youtube.com/watch?v=zstj8g0ctRM)
 
 ## Podcasts
+- [Assigned Scientist at Bachelor's](https://asabpodcast.com/)
 - [Disability After Dark](https://www.stitcher.com/podcast/andrew-gurza/disabilityafterdark)
 - [LGBTQ+ STEM Cast](https://anchor.fm/lgbtqstemcast)
 - [My Fave Queer Chemist](https://www.stitcher.com/podcast/my-fave-queer-chemist/e/67457673)
@@ -95,18 +96,27 @@ marked with a content warning (cw).
 
 ### Fiction
 - [<i>Little and Lion</i> by Brandy Colbert](https://www.goodreads.com/book/show/25062038-little-lion)
+- [<i>On Earth We're Briefly Gorgeous</i> by Ocean Vuong](https://www.goodreads.com/book/show/41880609-on-earth-we-re-briefly-gorgeous)
+- [<i>Real Life</i> by Brandon Taylor](https://www.goodreads.com/book/show/46263943-real-life)
 - [<i>Beautiful Music for Ugly Children</i> by Kirstin Cronn-Mills](https://www.goodreads.com/book/show/13221769-beautiful-music-for-ugly-children)
 - [<i>I am J</i> by Cris Beam](https://www.goodreads.com/book/show/8140535-i-am-j)
 - [<i>Will Grayson, Will Grayson</i> by John Green and David Levithan](https://www.goodreads.com/book/show/6567017-will-grayson-will-grayson)
 - [<i>We Are the Ants</i> by Shaun David Hutchinson](https://www.goodreads.com/book/show/23677341-we-are-the-ants)
-- [<i>Carry On</i> by Rainbow Rowell](https://www.goodreads.com/book/show/32768522-carry-on)
 - [<i>Huntress</i> by Malinda Lo](https://www.goodreads.com/book/show/9415946-huntress)
 - [<i>Luna</i> by Julie Anne Peters](https://www.goodreads.com/book/show/316445.Luna)
-- [<i>Openly Straight</i> by Bill Konigsberg](https://www.goodreads.com/book/show/16100972-openly-straight)
 - [<i>Stay Gold</i> by Tobly McSmith](https://www.goodreads.com/book/show/45306326-stay-gold)
-- [<i>Real Life</i> by Brandon Taylor](https://www.goodreads.com/book/show/46263943-real-life)
+- [<i>Felix Ever After</i> by Kacen Callender](https://www.goodreads.com/book/show/51931067-felix-ever-after)
+- <i>Simon Snow</i> Series
+    - [<i>Carry On</i> by Rainbow Rowell (Book 1)](https://www.goodreads.com/book/show/32768522-carry-on)
+    - [<i>Wayward Son</i> by Rainbow Rowell (Book 2)](https://www.goodreads.com/book/show/44017627-wayward-son)
+    - [<i>Any Way the Wind Blows</i> by Rainbow Rowell (Book 3)](https://www.goodreads.com/book/show/52190991-any-way-the-wind-blows)
+- <i>Openly Straight</i> Series
+    - [<i>Openly Straight</i> by Bill Konigsberg (book 1)](https://www.goodreads.com/book/show/16100972-openly-straight)
+    - [<i>Openly, Honestly</i> by Bill Konigsberg (book 1.5)](https://www.goodreads.com/book/show/34727888-openly-honestly)
+    - [<i>Honestly Ben</i> by Bill Konigsberg (book 2)](https://www.goodreads.com/book/show/27230789-honestly-ben)
 
 ### Non-Fiction
+- [<i>The Remedy: Queer and Trans Voices on Health and Health Care</i> edited by Zena Sharman](https://www.goodreads.com/book/show/29363318-the-remedy)
 - [<i>Trans* in College</i> by Z. Nicolazzo](https://www.goodreads.com/book/show/30148613-trans-in-college)
 - [<i>A Queer History of the United States</i> by Michael Bronski](https://www.goodreads.com/book/show/10065595-a-queer-history-of-the-united-states)
 - [<i>The Autobiography of a Transgender Scientist</i> by Ben Barres](https://www.goodreads.com/book/show/39644215-the-autobiography-of-a-transgender-scientist)
@@ -115,6 +125,8 @@ marked with a content warning (cw).
 - [<i>We Are Everywhere: Protest, Power, and Pride In The History of Queer Liberation</i> by Leighton Brown and Matthew Riemer ](https://www.goodreads.com/book/show/41429532-we-are-everywhere)
 - [<i>Sweet Tea: Black Gay Men of the South</i> by E. Patrick Johnson](https://www.goodreads.com/book/show/3328046-sweet-tea)
 - [<i>Fun Home: A Family Tragicomic</i> by Alison Bechdel](https://www.goodreads.com/book/show/26135825-fun-home)
+- [<i>Redefining Realness: My Path to Womanhood, Identity, Love & So Much More</i> by Janet Mock](https://www.goodreads.com/book/show/18144031-redefining-realness)
+- [<i>High School</i> by Teagan and Sara Quin](https://www.goodreads.com/book/show/43197389-high-school)
 
 ## Comics
 - [<i>AJ and Magnus</i> by Bryan Steel](https://ajandmagnus.com/)

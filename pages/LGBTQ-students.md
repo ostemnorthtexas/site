@@ -127,18 +127,29 @@ I'll talk about them later.
 Here are some resources with data about the lack of equality or specific
 challenges faced for LGBTQ+ students, faculty, and researchers.
 
+### 2020s
+- ["Now I’m Not Afraid": The Influence of Identity-Focused STEM Professional Organizations on the Persistence of Sexual and Gender Minority Undergraduates in STEM, 2022](https://doi.org/10.3389/feduc.2022.780331)
+- [Sexual and gender minority undergraduates’ relationships and strategies for managing fit in STEM, 2022](https://doi.org/10.1371/journal.pone.0263561)
+- [Factors Influencing Retention of Transgender and Gender Nonconforming Students in Undergraduate STEM Majors, 2022](https://doi.org/10.1187/cbe.21-05-0136)
+- [Calculating Queer Acceptance and Visibility: A Literature Synthesis on Queer Identity in Mathematics (pre-print), 2021](https://doi.org/10.31219/osf.io/pumqe)
+- [Sexual orientation and gender influence perceptions of disciplinary fit: Implications for sexual and gender diversity in STEM](https://doi.org/10.1111/asap.12290)
+- [Finding community and overcoming barriers: experiences of queer and transgender postsecondary students in mathematics and other STEM fields, 2021](https://doi.org/10.1007/s13394-020-00356-5)
+- [Queer science: Temporality and futurity for queer students in STEM, 2021](https://doi.org/10.1177/0961463X211008138)
 - [Visible name changes promote inequity for transgender researchers, 2021](https://doi.org/10.1371/journal.pbio.3001104)
 - [Measuring and Resolving LGBTQ Disparities in STEM, 2021](https://www.freemanlab.org/s/2020_Freeman_PIBBS.pdf)
 - [Systemic inequalities for LGBTQ professionals in STEM, 2021](https://doi.org/10.1126/sciadv.abe0933)
 - [Increasing the visibility of LGBTQ+ researchers in STEM, 2020](https://doi.org/10.1016/S0140-6736(20)32626-X)
+- [Fourteen Recommendations to Create a More Inclusive Environment for LGBTQ+ Individuals in Academic Biology, 2020](https://doi.org/10.1187/cbe.20-04-0062)
 - [Creating Safe Spaces: Opportunities, Resources, and LGBTQ Student Groups at U.S. Colleges and Universities, 2020](https://doi.org/10.1177/2378023120971472)
 - [Turing’s children: Representation of sexual minorities in STEM, 2020](https://doi.org/10.1371/journal.pone.0241596)
 - [Microaggressions Experienced by LGBTQ Students With Disabilities, 2020](https://doi.org/10.1080/19496591.2020.1835669)
 - [Out of (Queer/Disabled) Time: Temporal Experiences of Disability and LGBTQ+ Identities in U.S. Higher Education, 2020](https://doi.org/10.14288/ce.v11i16.186495)
 - [Finding community and overcoming barriers: experiences of queer and transgender postsecondary students in mathematics and other STEM fields, 2020](https://doi.org/10.1007/s13394-020-00356-5)
 - [“Whose Liability Is It Anyway?” Cultivating an Inclusive College Climate for Autistic LGBTQ Students, 2020](https://doi.org/10.1177/1555458919897942)
-- [Examining the STEM Climate for Queer Students with Disabilities, 2020](https://www.researchgate.net/profile/Ryan_Miller39/publication/334654579_Examining_the_STEM_Climate_for_Queer_Students_with_Disabilities/links/5d38737b299bf1995b47110b/Examining-the-STEM-Climate-for-Queer-Students-with-Disabilities.pdf)
+- [Examining the STEM Climate for Queer Students with Disabilities, 2020](https://files.eric.ed.gov/fulltext/EJ1273676.pdf)
 - [“It’s dude culture”: Students with minoritized identities of sexuality and/or gender navigating STEM majors, 2020](http://doi.org/10.1037/dhe0000171)
+
+### 2010s
 - [LGBTQ+ college students with disabilities: demographic profile and perceptions of well-being, 2019](https://doi.org/10.1080/19361653.2019.1706686)
 - [A Model of Queer STEM Identity in the Workplace, 2019](https://doi.org/10.1080/00918369.2019.1610632)
 - [A Long Way to go for LGBTI Equality, 2019](https://fra.europa.eu/en/publication/2020/eu-lgbti-survey-results)
@@ -159,6 +170,7 @@ challenges faced for LGBTQ+ students, faculty, and researchers.
 - [LGBT+ Climate in Physics, 2015](https://www.aps.org/programs/lgbt/index.cfm)
 - [Factors impacting the academic climate for LGBQ STEM faculty, 2014](https://doi.org/10.1615/JWomenMinorScienEng.2014007429)
 - [Navigating the heteronormativity of engineering: the experiences of lesbian, gay, and bisexual students, 2011](https://doi.org/10.1080/19378629.2010.545065)
+- [Factors Influencing the Career and Academic Choices of Lesbian, Gay, Bisexual, and Transgender People, 2010](https://doi.org/10.1080/00918369.2010.517080)
 
 ## Additional Resources
 - [Strategies for Creating More Trans<sup>\*</sup>-Affirmative Classrooms](https://www.insidehighered.com/advice/2018/10/12/how-create-affirming-experiences-college-trans-students-opinion)

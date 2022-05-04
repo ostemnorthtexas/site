@@ -8,6 +8,7 @@ _site
 Thumbs.db
 ehthumbs.db
 .vendor
+**/default.profraw
 
 Gemfile.lock
 
