@@ -399,6 +399,7 @@ transgender people are not the gender that they are.
 - [Talking in Spanish to Families about Anti-Blackness (Habla con tu familia sobre #BlackLivesMatter)](https://twitter.com/therapy4latinx/status/1267590078483689472)
 - [Decolonizing the Classroom](https://ncte.org/blog/2019/04/decolonizing-the-classroom/)
 - [31 Resources That Will Help You Become a Better White Ally](https://www.self.com/story/white-ally-resources)
+- [What is Critical Race Theory?](https://www.perlego.com/knowledge/study-guides/what-is-critical-race-theory/)
 
 ## Intersectionality and Inclusivity
 - [What is Intersectionality](https://www.equality-network.org/our-work/intersectional/)
