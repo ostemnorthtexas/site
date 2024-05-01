@@ -183,7 +183,7 @@ Call <a href="tel:+12148281000">+1.214.828.1000</a>
     - Free app with strategies for managing anxiety
 - [MyLife](https://my.life/)
     - Free app with mindfulness activities
--[Student Athlete Mental Health Resources] (https://www.sportspsychology.org/articles/student-athlete-mental-health-resources/)
+- [Student Athlete Mental Health Resources] (https://www.sportspsychology.org/articles/student-athlete-mental-health-resources/)
     -Page with resources for mental health of student athletes
 - [Recovery Record](https://www.recoveryrecord.com/patient_overview)
     - Free app for eating disorder recovery
