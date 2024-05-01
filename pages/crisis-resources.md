@@ -139,7 +139,7 @@ Call <a href="tel:+12148281000">+1.214.828.1000</a>
 - [National Queer and Trans Therapists of Color Network](https://www.nqttcn.com/)
     - Web directory of therapists and resources dedicated to the mental health
     of queer and trans people of color
-- [Therapy for Queer People of Color](https://therapyforqpoc.com/qpoc-therapist-directory-1#!directory)
+- [Therapy for Queer People of Color](https://therapyforqpoc.com/)
     - Web directory of inclusive mental health providers
 - [Therapy for Black Girls](https://providers.therapyforblackgirls.com/)
     - Web directory of mental health professionals; podcast
